@@ -119,6 +119,27 @@
 
   .react { display: inline-flex; align-items: center; gap: 6px; background: var(--panel-2); border-radius: 999px; padding: 3px 10px 3px 4px; font-weight: 650; }
   .when { min-width: 74px; font-weight: 650; color: var(--text); font-size: 14px; }
+  .when small { display: block; color: var(--accent); font-size: 12.5px; font-weight: 600; margin-top: 2px; }
+  .asof { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .coin.tap { cursor: pointer; -webkit-tap-highlight-color: transparent; transition: transform .15s; }
+  .coin.tap:active { transform: scale(.985); }
+  .detail { position: fixed; inset: 0; z-index: 50; background: var(--bg); overflow-y: auto; padding: calc(env(safe-area-inset-top, 0px) + 14px) max(16px, env(safe-area-inset-right, 0px)) calc(env(safe-area-inset-bottom, 0px) + 30px) max(16px, env(safe-area-inset-left, 0px)); }
+  .d-back { background: var(--panel); border: 1px solid var(--line); color: var(--accent); border-radius: 999px; padding: 8px 16px; font: inherit; font-size: 15px; font-weight: 600; cursor: pointer; }
+  .d-id { display: flex; align-items: center; gap: 10px; margin-top: 18px; }
+  .d-id .names { display: flex; flex-direction: column; line-height: 1.15; }
+  .d-id .sym { font-size: 20px; font-weight: 700; }
+  .d-id .name { color: var(--muted); font-size: 13px; }
+  .d-price { font-size: 34px; font-weight: 700; letter-spacing: -0.02em; margin-top: 10px; }
+  .d-chg { font-size: 14px; color: var(--muted); font-weight: 600; }
+  .d-time { font-size: 13px; color: var(--muted); margin-top: 2px; min-height: 18px; }
+  .d-chart { margin: 14px 0 0; height: 240px; touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+  .d-chart svg { display: block; }
+  .d-chart .skel { height: 240px; display: flex; align-items: center; justify-content: center; }
+  .d-ranges { margin: 16px 0 0; max-width: none; }
+  .d-tools { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 14px; }
+  .d-btn { display: flex; align-items: center; justify-content: center; text-align: center; background: var(--panel); border: 1px solid var(--line); color: var(--text); border-radius: 14px; padding: 11px 8px; font: inherit; font-size: 13.5px; font-weight: 600; text-decoration: none; cursor: pointer; }
+  .d-btn[aria-pressed="true"] { border-color: var(--accent); background: var(--panel-2); color: var(--accent); }
+  .d-note { margin-top: 18px; }
   .event { display: flex; gap: 14px; align-items: flex-start; }
   .pill.hi { color: var(--down); }
   .pill.mid { color: var(--yellow); }
@@ -204,7 +225,7 @@
   <h2 class="spaced">Team 2 <span>Weitere Favoriten</span></h2>
   <section class="grid" id="team2"></section>
 
-  <h2 class="spaced ico"><span class="emoji" aria-hidden="true">🌍</span>Weltmärkte <span>Gold live, Rest folgt</span></h2>
+  <h2 class="spaced ico"><span class="emoji" aria-hidden="true">🌍</span>Weltmärkte <span>Aktien, Gold, Öl</span></h2>
   <section class="grid world" id="world"></section>
 
   </div>
@@ -214,13 +235,13 @@
   <p class="note"><span id="news-stamp"></span><br>Originalschlagzeilen auf Englisch. Antippen öffnet den Artikel.</p>
   <section class="news" id="news"></section>
 
-  <h2 class="spaced">Kommende Woche <span>Wichtige Termine im Blick</span></h2>
-  <p class="note">Noch Beispieltermine. Echte Termine folgen im nächsten Schritt.</p>
+  <h2 class="spaced">Kommende Woche <span id="ahead-label">Die nächsten 7 Tage</span></h2>
+  <p class="note">Offizielle Termine von US-Notenbank und US-Statistikämtern, Uhrzeit in Ihrer Ortszeit.</p>
   <section class="news" id="ahead"></section>
 
   </div>
 
-  <footer>Kursdaten: <a href="https://www.coingecko.com" rel="noopener" target="_blank">CoinGecko</a> · Stimmung: alternative.me</footer>
+  <footer>Kursdaten: <a href="https://www.coingecko.com" rel="noopener" target="_blank">CoinGecko</a> · Stimmung: alternative.me · Weltmärkte: FRED</footer>
 </div>
 <div class="ptr" id="ptr" aria-hidden="true"><span>↻</span></div>
 
@@ -334,7 +355,7 @@
     }).join("");
   }
   function coinCard(c, removable) {
-    return '<article class="coin">' + (removable ? '<button type="button" class="rm" data-rm="' + esc(c.id) + '" aria-label="' + esc(c.name) + ' entfernen">×</button>' : "") +
+    return '<article class="coin tap" data-id="' + esc(c.id) + '">' + (removable ? '<button type="button" class="rm" data-rm="' + esc(c.id) + '" aria-label="' + esc(c.name) + ' entfernen">×</button>' : "") +
       '<div class="top"><div class="id">' + logo(c) + '<span class="names"><span class="sym">' + esc(c.sym) + '</span><span class="name">' + esc(c.name) + "</span></span></div></div>" +
       '<div class="price num">' + fmtPrice(c.usd) + "</div>" + sparkline(c) + '<div class="chips">' + chipsHtml(c) + "</div></article>";
   }
@@ -366,10 +387,26 @@
     }[kind];
     return '<svg class="wicon" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="' + bg + '"/>' + g + "</svg>";
   }
-  function worldCard(name, sub, kind, data, unit) {
-    var price = data ? fmtPrice(data.usd) + "<small>" + unit + "</small>" : '<span class="na">Daten folgen</span>';
+  function worldCard(name, sub, kind, data, unit, points) {
+    var price = !data ? '<span class="na">' + (marketsState === "error" ? "nicht erreichbar" : "lädt …") + "</span>"
+      : points ? new Intl.NumberFormat("de-DE", { maximumFractionDigits: 0 }).format(data.usd) + "<small>Punkte</small>"
+      : fmtPrice(data.usd) + "<small>" + unit + "</small>";
+    var asof = data && data.date ? '<div class="asof">Schlusskurs ' + new Date(data.date + "T12:00:00").toLocaleDateString("de-DE", { weekday: "short", day: "2-digit", month: "2-digit" }) + "</div>" : "";
     return '<article class="coin mini"><div class="top"><div class="id">' + wicon(kind) + '<span class="names"><span class="sym">' + name + '</span><span class="name">' + sub + "</span></span></div></div>" +
-      '<div class="price num">' + price + '</div><div class="chips" style="margin-top:12px">' + chipsHtml(data) + "</div></article>";
+      '<div class="price num">' + price + "</div>" + asof + '<div class="chips" style="margin-top:12px">' + chipsHtml(data) + "</div></article>";
+  }
+  // ---------- Weltmärkte (von GitHub gesammelt, Quelle FRED) ----------
+  var marketsCache = load("markets_v1"), marketsState = marketsCache ? "ok" : "loading";
+  function loadMarkets() {
+    if (marketsCache && Date.now() - marketsCache.at < 30 * 60e3) return;
+    getJSON("markets.json?t=" + Date.now()).then(function (d) {
+      marketsCache = { at: Date.now(), data: d }; store("markets_v1", marketsCache); marketsState = "ok"; render();
+    }).catch(function () { marketsState = marketsCache ? "ok" : "error"; render(); });
+  }
+  function mkt(key) {
+    var m = marketsCache && marketsCache.data && marketsCache.data.data && marketsCache.data.data[key];
+    if (!m) return null;
+    return { usd: m.value, date: m.date, h1: null, h4: null, d1: m.d1, d7: m.d7, m1: m.m1, m6: m.m6, y1: m.y1, y5: m.y5 };
   }
   function toast(msg) {
     var t = document.getElementById("toast"); t.textContent = msg; t.classList.add("show");
@@ -423,11 +460,38 @@
         '<div class="meta">' + st + r + "<span>" + ago(n.t) + '</span></div><div class="srcs">' + src + "</div></article>";
     }).join("");
   }
-  var ahead = [
-    { when: "Dienstag", t: "Beispieltermin: Wichtige Wirtschaftsdaten aus den USA", p: "Hier steht später, was erwartet wird und warum es für Krypto wichtig sein kann.", coins: ["BTC", "ETH"], level: "hoch" },
-    { when: "Mittwoch", t: "Beispieltermin: Zinsentscheidung der US-Notenbank", p: "Solche Termine bewegen den ganzen Markt, oft schon vorher.", coins: ["BTC"], level: "hoch" },
-    { when: "Freitag", t: "Beispieltermin: Freischaltung von Token eines Projekts", p: "Zusätzliche Token im Umlauf können den Kurs eines einzelnen Coins belasten.", coins: ["ONDO"], level: "mittel" }
-  ];
+  // ---------- Kommende Woche (offizielle Termine, events.json) ----------
+  var eventsCache = load("events_v1"), eventsState = eventsCache ? "ok" : "loading";
+  function loadEvents() {
+    if (eventsCache && Date.now() - eventsCache.at < 12 * 3600e3) return;
+    getJSON("events.json?t=" + Date.now()).then(function (d) {
+      eventsCache = { at: Date.now(), data: d }; store("events_v1", eventsCache); eventsState = "ok"; render();
+    }).catch(function () { eventsState = eventsCache ? "ok" : "error"; render(); });
+  }
+  function aheadWindow() {
+    var now = new Date(), dow = now.getDay(), end;
+    if (dow === 5 || dow === 6 || dow === 0) {          // Fr–So: komplette nächste Woche
+      var mon = new Date(now); mon.setHours(0, 0, 0, 0);
+      mon.setDate(mon.getDate() + ((8 - dow) % 7 || 7));
+      end = new Date(mon); end.setDate(end.getDate() + 7);
+      return { from: now.getTime(), to: end.getTime(), label: "Inkl. nächster Woche" };
+    }
+    return { from: now.getTime(), to: now.getTime() + 7 * 864e5, label: "Die nächsten 7 Tage" };
+  }
+  function aheadHtml() {
+    var d = eventsCache && eventsCache.data;
+    if (!d) return '<div class="item skel">' + (eventsState === "error" ? "Termine konnten nicht geladen werden." : "Termine werden geladen …") + "</div>";
+    var w = aheadWindow();
+    var list = d.events.filter(function (e) { return e.t * 1000 >= w.from - 3600e3 && e.t * 1000 < w.to; });
+    if (!list.length) return '<div class="item skel">Keine wichtigen Termine in diesem Zeitraum.</div>';
+    return list.map(function (e) {
+      var dt = new Date(e.t * 1000);
+      var day = dt.toLocaleDateString("de-DE", { weekday: "short", day: "2-digit", month: "2-digit" });
+      var hm = dt.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" });
+      return '<article class="item event"><div class="when">' + day + '<small>' + hm + ' Uhr</small></div><div><h3>' + esc(e.title) + "</h3><p>" + esc(e.desc) +
+        '</p><div class="meta"><span class="pill ' + (e.level === "hoch" ? "hi" : "mid") + '">Bedeutung: ' + esc(e.level) + "</span><span>" + esc(e.src) + "</span></div></div></article>";
+    }).join("");
+  }
 
   // ---------- Darstellung ----------
   function render() {
@@ -459,17 +523,15 @@
     var gold = byId(GOLD);
     document.getElementById("world").innerHTML =
       worldCard("Gold", "Feinunze", "gold", gold, "/ Unze") +
-      worldCard("Nasdaq 100", "Tech-Aktien", "nasdaq", null) +
-      worldCard("S&amp;P 500", "US-Aktien", "sp", null) +
-      worldCard("Öl", "Brent-Rohöl", "oil", null);
+      worldCard("Nasdaq 100", "Tech-Aktien", "nasdaq", mkt("nasdaq"), "", true) +
+      worldCard("S&amp;P 500", "US-Aktien", "sp", mkt("sp"), "", true) +
+      worldCard("Öl", "Brent-Rohöl", "oil", mkt("oil"), "/ Barrel");
 
     document.getElementById("news").innerHTML = newsHtml();
     var nd = newsCache && newsCache.data;
     document.getElementById("news-stamp").textContent = newsState === "loading" ? "wird geladen …" : nd ? "Gesammelt " + new Date(nd.updated * 1000).toLocaleString("de-DE", { weekday: "short", hour: "2-digit", minute: "2-digit" }) + " Uhr · " + nd.feeds.length + " Quellen" : "";
-    document.getElementById("ahead").innerHTML = ahead.map(function (a) {
-      var tags = a.coins.map(function (s) { return '<span class="pill">' + s + "</span>"; }).join("");
-      return '<article class="item event"><div class="when">' + a.when + "</div><div><h3>" + a.t + "</h3><p>" + a.p + '</p><div class="meta"><span class="pill ' + (a.level === "hoch" ? "hi" : "mid") + '">Bedeutung: ' + a.level + "</span>" + tags + "</div></div></article>";
-    }).join("");
+    document.getElementById("ahead").innerHTML = aheadHtml();
+    document.getElementById("ahead-label").textContent = aheadWindow().label;
     document.getElementById("btn-eur").setAttribute("aria-pressed", currency === "EUR");
     document.getElementById("btn-usd").setAttribute("aria-pressed", currency === "USD");
   }
@@ -546,7 +608,7 @@
   }
 
   // ---------- Coin suchen und hinzufügen ----------
-  var sheet = null, qTimer = null;
+  var sheet = null, qTimer = null, detailOpen = false;
   function openSearch() {
     if (sheet) return;
     sheet = document.createElement("div");
@@ -640,7 +702,7 @@
   var tx = 0, ty = 0;
   document.addEventListener("touchstart", function (e) { tx = e.touches[0].clientX; ty = e.touches[0].clientY; }, { passive: true });
   document.addEventListener("touchend", function (e) {
-    if (sheet) return;
+    if (sheet || detailOpen) return;
     var dx = e.changedTouches[0].clientX - tx, dy = e.changedTouches[0].clientY - ty;
     if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 1.5) setView(dx < 0 ? "news" : "markt");
   }, { passive: true });
@@ -659,7 +721,7 @@
   function ptrShow(d) { var k = Math.min(1, d / 80); ptr.style.opacity = k; ptr.style.transform = "translateY(" + (-50 + k * 60) + "px) rotate(" + (d * 3) + "deg)"; }
   function ptrHide() { ptr.style.transition = "opacity .3s, transform .3s"; ptr.style.opacity = 0; ptr.style.transform = "translateY(-50px)"; ptr.classList.remove("spin"); setTimeout(function () { ptr.style.transition = ""; }, 320); }
   document.addEventListener("touchstart", function (e) {
-    pY = (!sheet && !pBusy && window.scrollY <= 0 && !document.getElementById("view-markt").hidden) ? e.touches[0].clientY : null; pDist = 0;
+    pY = (!sheet && !detailOpen && !pBusy && window.scrollY <= 0 && !document.getElementById("view-markt").hidden) ? e.touches[0].clientY : null; pDist = 0;
   }, { passive: true });
   document.addEventListener("touchmove", function (e) {
     if (pY == null) return;
@@ -678,6 +740,179 @@
   render();
   refresh();
   loadNews(false);
+  loadMarkets();
+  loadEvents();
+  // ---------- Detail-Chart: Coin antippen ----------
+  var RANGES = [["h1", "1H"], ["h4", "4H"], ["d1", "1D"], ["d7", "7D"], ["m1", "1M"], ["m6", "6M"], ["y1", "1Y"], ["y5", "5Y"]];
+  var dRange = load("chartRange") || "d7", dSR = load("chartSR") === true, dCoin = null, dPts = null, dReq = 0;
+  var chartMem = {};
+  function seriesFor(c, r) {
+    var key = c.id + ":" + (r === "h1" || r === "h4" ? "d1" : r);
+    var hit = chartMem[key];
+    if (hit && Date.now() - hit.at < 120e3) return Promise.resolve(hit.pts);
+    var p;
+    if (r === "y5") {
+      var sym = c.id === GOLD ? "PAXG" : c.sym;
+      p = getJSON(BN + "?symbol=" + sym + "USDT&interval=1w&limit=262").then(function (k) {
+        return k.map(function (x) { return [x[0], parseFloat(x[4])]; });
+      }).catch(function () {
+        return getJSON(CG + "/coins/" + c.id + "/market_chart?vs_currency=usd&days=365").then(function (d) { toast("Für diesen Coin ist nur 1 Jahr Verlauf verfügbar."); return d.prices; });
+      });
+    } else {
+      var days = { h1: 1, h4: 1, d1: 1, d7: 7, m1: 30, m6: 180, y1: 365 }[r];
+      p = getJSON(CG + "/coins/" + c.id + "/market_chart?vs_currency=usd&days=" + days).then(function (d) { return d.prices; });
+    }
+    return p.then(function (pts) { chartMem[key] = { at: Date.now(), pts: pts }; return pts; });
+  }
+  function cut(pts, r) {
+    if (r !== "h1" && r !== "h4") return pts;
+    var from = Date.now() - (r === "h1" ? 3600e3 : 4 * 3600e3);
+    return pts.filter(function (x) { return x[0] >= from; });
+  }
+  function fmtWhen(ms, r) {
+    var d = new Date(ms);
+    if (r === "h1" || r === "h4" || r === "d1") return d.toLocaleString("de-DE", { weekday: "short", hour: "2-digit", minute: "2-digit" }) + " Uhr";
+    if (r === "d7" || r === "m1") return d.toLocaleString("de-DE", { weekday: "short", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }) + " Uhr";
+    return d.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" });
+  }
+  // Unterstützung/Widerstand: markante Hochs und Tiefs suchen, nahe Werte bündeln, häufig getestete Zonen behalten
+  function srLevels(pts) {
+    var v = pts.map(function (x) { return x[1]; }), n = v.length;
+    if (n < 20) return [];
+    var w = Math.max(2, Math.floor(n / 30)), piv = [];
+    for (var i = w; i < n - w; i++) {
+      var hi = true, lo = true;
+      for (var j = i - w; j <= i + w; j++) { if (v[j] > v[i]) hi = false; if (v[j] < v[i]) lo = false; }
+      if (hi || lo) piv.push(v[i]);
+    }
+    var mn = Math.min.apply(null, v), mx = Math.max.apply(null, v), tol = (mx - mn) * 0.035;
+    piv.sort(function (a, b) { return a - b; });
+    var zones = [];
+    piv.forEach(function (x) {
+      var z = zones[zones.length - 1];
+      if (z && x - z.max <= tol) { z.sum += x; z.n++; z.max = x; } else zones.push({ sum: x, n: 1, max: x });
+    });
+    var cur = v[n - 1], res = [], sup = [];
+    zones.forEach(function (z) {
+      var lvl = z.sum / z.n;
+      if (z.n < 2) return;
+      if (lvl > cur * 1.002) res.push({ p: lvl, n: z.n, t: "R" }); else if (lvl < cur * 0.998) sup.push({ p: lvl, n: z.n, t: "S" });
+    });
+    function best(a) { return a.sort(function (x, y) { return y.n - x.n || Math.abs(x.p - cur) - Math.abs(y.p - cur); }).slice(0, 2); }
+    return best(res).concat(best(sup));
+  }
+  function drawChart() {
+    var box = document.getElementById("d-chart");
+    if (!box) return;
+    var pts = dPts;
+    if (!pts || pts.length < 2) { box.innerHTML = '<div class="skel">' + (pts ? "Zu wenige Daten." : "Chart wird geladen …") + "</div>"; return; }
+    var W = box.clientWidth || 340, H = 240, padT = 14, padB = 22, padR = 4;
+    var vals = pts.map(function (x) { return conv(x[1]); });
+    var lv = dSR ? srLevels(pts).map(function (l) { return { p: conv(l.p), t: l.t, n: l.n }; }) : [];
+    var mn = Math.min.apply(null, vals), mx = Math.max.apply(null, vals);
+    lv.forEach(function (l) { mn = Math.min(mn, l.p); mx = Math.max(mx, l.p); });
+    var span = (mx - mn) || mx * 0.01 || 1; mn -= span * 0.04; mx += span * 0.04; span = mx - mn;
+    var t0 = pts[0][0], t1 = pts[pts.length - 1][0];
+    function X(t) { return (t - t0) / ((t1 - t0) || 1) * (W - padR); }
+    function Y(p) { return padT + (1 - (p - mn) / span) * (H - padT - padB); }
+    var up = vals[vals.length - 1] >= vals[0], col = up ? "var(--up)" : "var(--down)";
+    var d = pts.map(function (x, i) { return (i ? "L" : "M") + X(x[0]).toFixed(1) + " " + Y(vals[i]).toFixed(1); }).join(" ");
+    var area = d + " L" + X(t1).toFixed(1) + " " + (H - padB) + " L0 " + (H - padB) + " Z";
+    var sr = lv.map(function (l) {
+      var y = Y(l.p).toFixed(1), c = l.t === "R" ? "#ff4d63" : "#2fe0a0";
+      return '<line x1="0" x2="' + W + '" y1="' + y + '" y2="' + y + '" stroke="' + c + '" stroke-width="1.4" stroke-dasharray="5 4" opacity=".9"/>' +
+        '<text x="4" y="' + (y - 4) + '" fill="' + c + '" font-size="11" font-weight="700">' + (l.t === "R" ? "Widerstand " : "Unterstützung ") + fmtNum(l.p) + "</text>";
+    }).join("");
+    box.innerHTML = '<svg width="' + W + '" height="' + H + '" viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Kursverlauf">' +
+      '<defs><linearGradient id="dg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="' + (up ? "#2fe0a0" : "#ff4d63") + '" stop-opacity=".22"/><stop offset="1" stop-color="' + (up ? "#2fe0a0" : "#ff4d63") + '" stop-opacity="0"/></linearGradient></defs>' +
+      '<path d="' + area + '" fill="url(#dg)"/>' + sr +
+      '<path d="' + d + '" fill="none" stroke="' + col + '" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>' +
+      '<text x="0" y="' + (H - 5) + '" fill="var(--muted)" font-size="11">' + fmtWhen(t0, dRange) + "</text>" +
+      '<text x="' + (W - padR) + '" y="' + (H - 5) + '" fill="var(--muted)" font-size="11" text-anchor="end">jetzt</text>' +
+      '<g id="d-cross" style="display:none"><line id="d-vl" y1="' + padT + '" y2="' + (H - padB) + '" stroke="var(--muted)" stroke-width="1"/><circle id="d-dot" r="5" fill="' + col + '" stroke="var(--bg)" stroke-width="2"/></g>' +
+      '<rect width="' + W + '" height="' + H + '" fill="transparent" id="d-hit"/></svg>';
+    var hit = document.getElementById("d-hit"), cross = document.getElementById("d-cross");
+    function at(ev) {
+      var r = box.getBoundingClientRect(), x = Math.max(0, Math.min(W, ev.clientX - r.left));
+      var t = t0 + x / (W - padR) * (t1 - t0), lo = 0, hi = pts.length - 1;
+      while (hi - lo > 1) { var m = (lo + hi) >> 1; if (pts[m][0] < t) lo = m; else hi = m; }
+      var i = Math.abs(pts[lo][0] - t) < Math.abs(pts[hi][0] - t) ? lo : hi;
+      cross.style.display = "";
+      var cx = X(pts[i][0]).toFixed(1), cy = Y(vals[i]).toFixed(1);
+      document.getElementById("d-vl").setAttribute("x1", cx); document.getElementById("d-vl").setAttribute("x2", cx);
+      document.getElementById("d-dot").setAttribute("cx", cx); document.getElementById("d-dot").setAttribute("cy", cy);
+      showHead(pts[i][1], (pts[i][1] / pts[0][1] - 1) * 100, fmtWhen(pts[i][0], dRange));
+    }
+    function off() { cross.style.display = "none"; showHead(null); }
+    hit.addEventListener("pointerdown", function (e) { hit.setPointerCapture && hit.setPointerCapture(e.pointerId); at(e); });
+    hit.addEventListener("pointermove", function (e) { if (e.buttons || e.pointerType === "mouse") at(e); });
+    hit.addEventListener("pointerup", off); hit.addEventListener("pointercancel", off); hit.addEventListener("pointerleave", off);
+  }
+  function fmtNum(v) {
+    var d = v >= 100 ? 0 : v >= 1 ? 2 : 4;
+    return new Intl.NumberFormat("de-DE", { minimumFractionDigits: d, maximumFractionDigits: d }).format(v) + (currency === "EUR" ? " €" : " $");
+  }
+  function showHead(usd, pct, when) {
+    if (!dCoin) return;
+    var live = usd == null;
+    var p = live ? dCoin.usd : usd;
+    var ch = live ? (dPts && dPts.length > 1 ? (dPts[dPts.length - 1][1] / dPts[0][1] - 1) * 100 : dCoin[dRange]) : pct;
+    document.getElementById("d-price").innerHTML = fmtPrice(p);
+    document.getElementById("d-chg").innerHTML = '<span class="num ' + cls(ch) + '">' + fmtPct(ch) + "</span> " + (live ? "in " + RANGES.filter(function (q) { return q[0] === dRange; })[0][1] : "seit Beginn");
+    document.getElementById("d-time").textContent = live ? "Aktueller Kurs" : when;
+  }
+  function loadChart() {
+    var my = ++dReq, c = dCoin, r = dRange;
+    dPts = null; drawChart(); showHead(null);
+    seriesFor(c, r).then(function (pts) {
+      if (my !== dReq) return;
+      dPts = cut(pts, r); drawChart(); showHead(null);
+    }).catch(function () {
+      if (my !== dReq) return;
+      document.getElementById("d-chart").innerHTML = '<div class="skel">Chart gerade nicht erreichbar. Bitte gleich nochmal versuchen.</div>';
+    });
+  }
+  function rangeChips() {
+    return RANGES.map(function (q) { return '<button type="button" class="pchip" data-r="' + q[0] + '" aria-pressed="' + (q[0] === dRange) + '">' + q[1] + "</button>"; }).join("");
+  }
+  function openDetail(id) {
+    var c = byId(id);
+    if (!c) return;
+    dCoin = c; detailOpen = true;
+    var el = document.createElement("div");
+    el.className = "detail"; el.id = "detail";
+    el.innerHTML = '<div class="wrap"><div class="d-top"><button type="button" class="d-back" id="d-back">‹ Zurück</button></div>' +
+      '<div class="d-id">' + logo(c) + '<span class="names"><span class="sym">' + esc(c.sym) + '</span><span class="name">' + esc(c.name) + "</span></span></div>" +
+      '<div class="d-price num" id="d-price"></div><div class="d-chg" id="d-chg"></div><div class="d-time" id="d-time"></div>' +
+      '<div class="d-chart" id="d-chart"></div>' +
+      '<div class="periods d-ranges" id="d-ranges">' + rangeChips() + "</div>" +
+      '<div class="d-tools"><button type="button" class="d-btn" id="d-sr" aria-pressed="' + dSR + '">Unterstützung / Widerstand</button>' +
+      '<a class="d-btn" href="https://www.tradingview.com/chart/?symbol=BINANCE%3A' + encodeURIComponent((c.id === GOLD ? "PAXG" : c.sym) + "USDT") + '" target="_blank" rel="noopener noreferrer">In TradingView öffnen ↗</a></div>' +
+      '<p class="note d-note">Finger auf den Chart halten und bewegen: zeigt Preis und Uhrzeit. Linien werden automatisch aus markanten Hochs und Tiefs des gewählten Zeitraums berechnet.</p></div>';
+    document.body.appendChild(el);
+    document.body.style.overflow = "hidden";
+    el.addEventListener("click", function (e) {
+      if (e.target.closest("#d-back")) return closeDetail();
+      var b = e.target.closest("[data-r]");
+      if (b) { dRange = b.getAttribute("data-r"); store("chartRange", dRange); document.getElementById("d-ranges").innerHTML = rangeChips(); loadChart(); return; }
+      if (e.target.closest("#d-sr")) { dSR = !dSR; store("chartSR", dSR); document.getElementById("d-sr").setAttribute("aria-pressed", dSR); drawChart(); }
+    });
+    loadChart();
+  }
+  function closeDetail() {
+    var el = document.getElementById("detail");
+    if (el) el.remove();
+    document.body.style.overflow = ""; detailOpen = false; dCoin = null; dReq++;
+  }
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && detailOpen) closeDetail(); });
+  window.addEventListener("resize", function () { if (detailOpen) drawChart(); });
+  ["core", "team2"].forEach(function (sec) {
+    document.getElementById(sec).addEventListener("click", function (e) {
+      if (e.target.closest("[data-rm]") || e.target.closest("#add-coin")) return;
+      var card = e.target.closest("[data-id]");
+      if (card) openDetail(card.getAttribute("data-id"));
+    });
+  });
 })();
 
 </script>

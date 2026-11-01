@@ -29,7 +29,13 @@ FEEDS = [
 ]
 UA = "OverviewX-News/1.0 (private dashboard; +https://erichrepp2001-code.github.io/overview-x/)"
 MAX_AGE_H = 36
-MAX_ITEMS = 15
+MAX_ITEMS = 8        # nur das Wichtigste
+MIN_ITEMS = 4        # falls wenig los ist: mit Einzelmeldungen zu Kern-Coins auffüllen
+CORE = {"BTC", "ETH", "SOL", "XRP"}
+# Füllmaterial: Rückblicke, Meinungen, Kursprognosen, Werbung
+JUNK = re.compile(r"what happened in crypto|price prediction|price analysis|\banalyst says\b|\bopinion\b|op-ed|podcast|newsletter|"
+                  r"sponsored|press release|\bhow to\b|\bguide\b|explained|\bweekly\b|\bdaily\b|recap|roundup|\bwhy\b|"
+                  r"\bcould\b|\bmight\b|\bhere'?s\b|\bhere’s\b|\?$|\bmemecoin of\b|\bbest crypto\b|\btop \d+\b", re.I)
 
 # Coin-Erkennung: (Kürzel, CoinGecko-ID, Muster ohne Groß/Klein, Muster mit exakter Schreibweise)
 COINS = [
@@ -184,7 +190,7 @@ def main():
         text = " ".join(i["title"] for i in by_src.values()) + " " + main_it["teaser"]
         coins = coins_in(text)
         n = len(by_src)
-        if n < 2 and not coins:
+        if JUNK.search(main_it["title"]):
             continue
         first = min(i["t"] for i in by_src.values())
         age_h = (now - first) / 3600
@@ -196,11 +202,17 @@ def main():
             "sources": [{"name": i["source"], "link": i["link"]} for i in sorted(by_src.values(), key=lambda x: order[x["source"]])],
             "coins": coins,
             "_score": n * 2 + (1.5 if coins else 0) - age_h / 8,
+            "_n": n,
+            "_core": any(c["sym"] in CORE for c in coins),
         })
     out.sort(key=lambda x: x["_score"], reverse=True)
-    out = out[:MAX_ITEMS]
+    confirmed = [o for o in out if o["_n"] >= 2][:MAX_ITEMS]
+    if len(confirmed) < MIN_ITEMS:
+        confirmed += [o for o in out if o["_n"] < 2 and o["_core"]][:MIN_ITEMS - len(confirmed)]
+    out = confirmed
     for o in out:
-        del o["_score"]
+        for k in ("_score", "_n", "_core"):
+            del o[k]
     out.sort(key=lambda x: x["t"], reverse=True)
 
     data = {"updated": int(now), "feeds": ok, "items": out}

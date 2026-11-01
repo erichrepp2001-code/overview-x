@@ -1,0 +1,299 @@
+{
+ "note": "Offizielle Terminkalender von Fed, BLS und BEA. Termine können sich verschieben.",
+ "events": [
+  {
+   "t": 1793971800,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1794317400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1794576600,
+   "title": "US-Erzeugerpreise (PPI)",
+   "desc": "Vorbote der Inflation, meist mit kleinerer Wirkung als CPI.",
+   "level": "mittel",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1795028400,
+   "title": "Protokoll der letzten Fed-Sitzung",
+   "desc": "Details zur Zinsdiskussion vom Oktober. Kann Erwartungen an Zinssenkungen verschieben.",
+   "level": "mittel",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1795613400,
+   "title": "PCE-Inflation und US-Wachstum (BIP)",
+   "desc": "Die PCE-Inflation ist das bevorzugte Inflationsmaß der Fed.",
+   "level": "mittel",
+   "src": "U.S. Bureau of Economic Analysis"
+  },
+  {
+   "t": 1796391000,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1796842800,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1796909400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1797341400,
+   "title": "US-Erzeugerpreise (PPI)",
+   "desc": "Vorbote der Inflation, meist mit kleinerer Wirkung als CPI.",
+   "level": "mittel",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1798032600,
+   "title": "PCE-Inflation und US-Wachstum (BIP)",
+   "desc": "Die PCE-Inflation ist das bevorzugte Inflationsmaß der Fed.",
+   "level": "mittel",
+   "src": "U.S. Bureau of Economic Analysis"
+  },
+  {
+   "t": 1799415000,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1799847000,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1801076400,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1801834200,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1802352600,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1804253400,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1804685400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1805306400,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1806669000,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1807619400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1808935200,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1809693000,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1810125000,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1812112200,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1812564000,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1812630600,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1814531400,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1815568200,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1816797600,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1817555400,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1817987400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1819974600,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1820925000,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1821031200,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1822998600,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1823517000,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1824660000,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1825417800,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1825853400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1827840600,
+   "title": "US-Arbeitsmarktbericht",
+   "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  },
+  {
+   "t": 1828292400,
+   "title": "Zinsentscheid der US-Notenbank (Fed)",
+   "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
+   "level": "hoch",
+   "src": "Federal Reserve"
+  },
+  {
+   "t": 1828445400,
+   "title": "US-Inflationsdaten (CPI)",
+   "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
+   "level": "hoch",
+   "src": "U.S. Bureau of Labor Statistics"
+  }
+ ]
+}
