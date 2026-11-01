@@ -4,6 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;600&display=swap" rel="stylesheet">
 <title>Overview X</title>
 <meta name="claude:viewport-fit-sides" content="cover">
+<meta name="ox-build" content="202611011624">
 <style>
   :root {
     --bg: #0f1729;
@@ -257,6 +258,23 @@
 <script>
 (function () {
   "use strict";
+
+  // ---------- Selbst-Update: neue Version erkannt -> einmal neu laden ----------
+  (function () {
+    var mine = (document.querySelector('meta[name="ox-build"]') || {}).content;
+    function check() {
+      fetch("index.html?v=" + Date.now(), { cache: "no-store" }).then(function (r) { return r.ok ? r.text() : ""; }).then(function (t) {
+        var m = t.match(/name="ox-build" content="(\d+)"/);
+        if (m && mine && m[1] !== mine) {
+          var k = "ox-reloaded-" + m[1];
+          try { if (sessionStorage.getItem(k)) return; sessionStorage.setItem(k, "1"); } catch (e) {}
+          location.reload();
+        }
+      }).catch(function () {});
+    }
+    check();
+    document.addEventListener("visibilitychange", function () { if (document.visibilityState === "visible") check(); });
+  })();
 
   // ---------- Gast-Link mit Ablaufdatum (freundlicher Riegel, kein echter Schutz) ----------
   function gSig(x) { var h = 7; String(x + "|overview-x").split("").forEach(function (c) { h = (h * 31 + c.charCodeAt(0)) >>> 0; }); return h.toString(36).slice(-4); }
