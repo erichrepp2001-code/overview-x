@@ -42,7 +42,10 @@
   .num { font-variant-numeric: tabular-nums; }
 
   header { margin: 8px 0 4px; }
-  .brand { padding-bottom: 4px; }
+  .brand { padding-bottom: 4px; position: relative; }
+  .brand h1 { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; padding-right: 52px; }
+  .g-btn { position: absolute; top: 4px; right: 0; width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--line); background: var(--panel); color: var(--accent); display: flex; align-items: center; justify-content: center; cursor: pointer; padding: 0; }
+  .g-btn svg { width: 20px; height: 20px; }
   h1 { font-size: 40px; font-weight: 800; letter-spacing: -0.03em; line-height: 1.05; }
   .xg { background: linear-gradient(0deg, #2a4db3 0%, #7fa2ff 60%, #c9d8ff 100%); -webkit-background-clip: text; background-clip: text; color: transparent; padding-right: 3px; }
   .sub { color: var(--muted); font-size: 12.5px; margin-top: 2px; }
@@ -202,6 +205,7 @@
   <header>
     <div class="brand">
       <h1>Overview <span class="xg">X</span></h1>
+      <button type="button" class="g-btn" id="g-open" aria-label="Gast-Link erstellen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M8 7l4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg></button>
       <div class="greet">Hallo Herr Repp, schön, Sie anzutreffen.</div>
     </div>
     <div class="tools">
@@ -298,6 +302,10 @@
       }
     });
   }
+  (function () {   // Teilen-Knopf oben rechts (für Gäste ausgeblendet)
+    var b = document.getElementById("g-open");
+    if (guestUntil != null) b.remove(); else b.addEventListener("click", openGuestSheet);
+  })();
   (function () {   // Lange auf "Overview X" drücken = Gast-Link erstellen
     var h1 = document.querySelector("h1"), t = null;
     function start() { t = setTimeout(openGuestSheet, 700); }
