@@ -253,6 +253,59 @@
 <script>
 (function () {
   "use strict";
+
+  // ---------- Gast-Link mit Ablaufdatum (freundlicher Riegel, kein echter Schutz) ----------
+  function gSig(x) { var h = 7; String(x + "|overview-x").split("").forEach(function (c) { h = (h * 31 + c.charCodeAt(0)) >>> 0; }); return h.toString(36).slice(-4); }
+  var guestUntil = null;
+  (function () {
+    var sp = new URLSearchParams(location.search), q = sp.get("g"), saved = null;
+    if (sp.has("besitzer")) { try { localStorage.removeItem("guestUntil"); } catch (e) {} history.replaceState(null, "", location.pathname); return; }
+    try { saved = JSON.parse(localStorage.getItem("guestUntil")); } catch (e) {}
+    if (q) {
+      var parts = q.split("-"), exp = parseInt(parts[0], 36);
+      guestUntil = parts[1] === gSig(exp) ? exp : 0;
+      try { localStorage.setItem("guestUntil", JSON.stringify(guestUntil)); } catch (e) {}
+    } else if (saved != null) guestUntil = saved;
+  })();
+  if (guestUntil != null && Date.now() > guestUntil) {
+    document.querySelector(".wrap").innerHTML = '<header><div class="brand"><h1>Overview <span class="xg">X</span></h1></div></header>' +
+      '<div class="item" style="margin-top:28px"><h3>Dieser Gast-Link ist abgelaufen.</h3><p>Danke fürs Reinschauen! Für einen neuen Zugang einfach kurz beim Absender melden.</p></div>';
+    var tb = document.querySelector(".tabbar"); if (tb) tb.remove();
+    return;
+  }
+  function makeGuestLink(days) {
+    var end = new Date(); end.setDate(end.getDate() + days); end.setHours(23, 59, 0, 0);
+    var exp = end.getTime();
+    return { url: location.origin + location.pathname + "?g=" + exp.toString(36) + "-" + gSig(exp), end: end };
+  }
+  function openGuestSheet() {
+    if (guestUntil != null) return;           // Gäste können keine Links erzeugen
+    var l = makeGuestLink(3);
+    var el = document.createElement("div");
+    el.className = "sheet";
+    el.innerHTML = '<div class="sheet-box" role="dialog" aria-label="Gast-Link"><div class="sheet-head"><b>Gast-Link (3 Tage)</b><button type="button" class="sheet-x">Fertig</button></div>' +
+      '<p class="note" style="margin:0 0 12px">Gültig bis ' + l.end.toLocaleDateString("de-DE", { weekday: "long", day: "2-digit", month: "2-digit" }) + ', 23:59 Uhr. Danach sehen Gäste nur einen Hinweis.</p>' +
+      '<input type="text" readonly value="' + l.url + '"><div class="d-tools"><button type="button" class="d-btn" id="g-copy">Kopieren</button><button type="button" class="d-btn" id="g-share">Teilen …</button></div></div>';
+    document.body.appendChild(el);
+    el.addEventListener("click", function (e) {
+      if (e.target === el || e.target.closest(".sheet-x")) return el.remove();
+      if (e.target.closest("#g-copy")) {
+        (navigator.clipboard ? navigator.clipboard.writeText(l.url) : Promise.reject()).then(function () { toast("Link kopiert."); }).catch(function () { el.querySelector("input").select(); toast("Bitte markierten Link kopieren."); });
+      }
+      if (e.target.closest("#g-share")) {
+        if (navigator.share) navigator.share({ title: "Overview X", text: "Schau mal in mein Krypto-Dashboard (3 Tage gültig):", url: l.url }).catch(function () {});
+        else toast("Teilen geht hier nicht, bitte Kopieren nutzen.");
+      }
+    });
+  }
+  (function () {   // Lange auf "Overview X" drücken = Gast-Link erstellen
+    var h1 = document.querySelector("h1"), t = null;
+    function start() { t = setTimeout(openGuestSheet, 700); }
+    function stop() { clearTimeout(t); }
+    h1.addEventListener("pointerdown", start); h1.addEventListener("pointerup", stop); h1.addEventListener("pointerleave", stop); h1.addEventListener("pointercancel", stop);
+    h1.addEventListener("contextmenu", function (e) { e.preventDefault(); });
+    h1.style.webkitUserSelect = "none"; h1.style.userSelect = "none"; h1.style.webkitTouchCallout = "none";
+  })();
   var CG = "https://api.coingecko.com/api/v3";
   var BN = "https://data-api.binance.vision/api/v3/klines";
   var CORE = ["bitcoin", "ethereum", "solana", "ripple"];
