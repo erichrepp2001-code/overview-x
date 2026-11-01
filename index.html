@@ -489,7 +489,7 @@
       var day = dt.toLocaleDateString("de-DE", { weekday: "short", day: "2-digit", month: "2-digit" });
       var hm = dt.toLocaleTimeString("de-DE", { hour: "2-digit", minute: "2-digit" });
       return '<article class="item event"><div class="when">' + day + '<small>' + hm + ' Uhr</small></div><div><h3>' + esc(e.title) + "</h3><p>" + esc(e.desc) +
-        '</p><div class="meta"><span class="pill ' + (e.level === "hoch" ? "hi" : "mid") + '">Bedeutung: ' + esc(e.level) + "</span><span>" + esc(e.src) + "</span></div></div></article>";
+        '</p><div class="meta"><span class="pill ' + (e.level === "hoch" ? "hi" : "mid") + '">Bedeutung: ' + esc(e.level) + "</span>" + (e.coins || []).map(function (c) { return '<span class="pill">' + esc(c) + "</span>"; }).join("") + "<span>" + esc(e.src) + "</span></div></div></article>";
     }).join("");
   }
 

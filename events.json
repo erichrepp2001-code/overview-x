@@ -1,299 +1,643 @@
 {
- "note": "Offizielle Terminkalender von Fed, BLS und BEA. Termine können sich verschieben.",
+ "note": "Offizielle Kalender (Fed, BLS, BEA) und feste Krypto-Termine. Termine können sich verschieben.",
  "events": [
+  {
+   "t": 1793491200,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
+  },
+  {
+   "t": 1793703600,
+   "title": "US-Zwischenwahlen (Midterms)",
+   "desc": "Wahl von Repräsentantenhaus und einem Drittel des Senats. Die Mehrheiten entscheiden mit über Krypto-Gesetze und Regulierung. Erste Ergebnisse in der Nacht auf Mittwoch, starke Schwankungen möglich.",
+   "level": "hoch",
+   "src": "US-Wahltermin",
+   "coins": []
+  },
   {
    "t": 1793971800,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1794317400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1794576600,
    "title": "US-Erzeugerpreise (PPI)",
    "desc": "Vorbote der Inflation, meist mit kleinerer Wirkung als CPI.",
    "level": "mittel",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1795028400,
    "title": "Protokoll der letzten Fed-Sitzung",
    "desc": "Details zur Zinsdiskussion vom Oktober. Kann Erwartungen an Zinssenkungen verschieben.",
    "level": "mittel",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
   },
   {
    "t": 1795613400,
    "title": "PCE-Inflation und US-Wachstum (BIP)",
    "desc": "Die PCE-Inflation ist das bevorzugte Inflationsmaß der Fed.",
    "level": "mittel",
-   "src": "U.S. Bureau of Economic Analysis"
+   "src": "U.S. Bureau of Economic Analysis",
+   "coins": []
+  },
+  {
+   "t": 1795766400,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1796083200,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1796391000,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1796842800,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
   },
   {
    "t": 1796909400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1797341400,
    "title": "US-Erzeugerpreise (PPI)",
    "desc": "Vorbote der Inflation, meist mit kleinerer Wirkung als CPI.",
    "level": "mittel",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1798032600,
    "title": "PCE-Inflation und US-Wachstum (BIP)",
    "desc": "Die PCE-Inflation ist das bevorzugte Inflationsmaß der Fed.",
    "level": "mittel",
-   "src": "U.S. Bureau of Economic Analysis"
+   "src": "U.S. Bureau of Economic Analysis",
+   "coins": []
+  },
+  {
+   "t": 1798185600,
+   "title": "Großer Quartals-Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen. Zum Quartalsende besonders großes Volumen.",
+   "level": "hoch",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1798761600,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1799415000,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1799847000,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1801076400,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
+  },
+  {
+   "t": 1801209600,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1801440000,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1801834200,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1802352600,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
+  },
+  {
+   "t": 1803628800,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1803859200,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1804253400,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1804685400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1805306400,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
+  },
+  {
+   "t": 1806048000,
+   "title": "Großer Quartals-Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen. Zum Quartalsende besonders großes Volumen.",
+   "level": "hoch",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1806537600,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1806669000,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1807619400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1808935200,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
+  },
+  {
+   "t": 1809072000,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1809129600,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1809693000,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1810125000,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
+  },
+  {
+   "t": 1811491200,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1811808000,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1812112200,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1812564000,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
   },
   {
    "t": 1812630600,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
+  },
+  {
+   "t": 1813910400,
+   "title": "Großer Quartals-Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen. Zum Quartalsende besonders großes Volumen.",
+   "level": "hoch",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1814400000,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1814531400,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1815568200,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1816797600,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
+  },
+  {
+   "t": 1816934400,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1817078400,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1817555400,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1817987400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
+  },
+  {
+   "t": 1819353600,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1819756800,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1819974600,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1820925000,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1821031200,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
+  },
+  {
+   "t": 1821772800,
+   "title": "Großer Quartals-Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen. Zum Quartalsende besonders großes Volumen.",
+   "level": "hoch",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1822348800,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1822998600,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1823517000,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1824660000,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz.",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
+  },
+  {
+   "t": 1824796800,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1825027200,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1825417800,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1825853400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
+  },
+  {
+   "t": 1827216000,
+   "title": "Monatlicher Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen.",
+   "level": "mittel",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "t": 1827619200,
+   "title": "XRP-Escrow: monatliche Freigabe",
+   "desc": "Ripple gibt laut eigenem Treuhand-Plan monatlich XRP aus der Treuhand frei. Ein großer Teil fließt meist zurück, die Menge wird aber oft beobachtet.",
+   "level": "mittel",
+   "src": "Ripple",
+   "coins": [
+    "XRP"
+   ]
   },
   {
    "t": 1827840600,
    "title": "US-Arbeitsmarktbericht",
    "desc": "Neue Jobs und Arbeitslosenquote. Starke Überraschungen bewegen Dollar, Aktien und Bitcoin.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
   },
   {
    "t": 1828292400,
    "title": "Zinsentscheid der US-Notenbank (Fed)",
    "desc": "Wichtigster Termin für den Gesamtmarkt. Bitcoin reagiert oft stark auf Zinsentscheid und Pressekonferenz. Mit neuer Zinsprognose (Dot Plot).",
    "level": "hoch",
-   "src": "Federal Reserve"
+   "src": "Federal Reserve",
+   "coins": []
   },
   {
    "t": 1828445400,
    "title": "US-Inflationsdaten (CPI)",
    "desc": "Höher als erwartet belastet meist Krypto, niedriger stützt die Hoffnung auf Zinssenkungen.",
    "level": "hoch",
-   "src": "U.S. Bureau of Labor Statistics"
+   "src": "U.S. Bureau of Labor Statistics",
+   "coins": []
+  },
+  {
+   "t": 1830240000,
+   "title": "Großer Quartals-Verfall von Bitcoin-Optionen",
+   "desc": "Optionen und Futures auf Bitcoin und Ether laufen aus (Deribit, CME). Rund um den Termin oft erhöhte Schwankungen. Zum Quartalsende besonders großes Volumen.",
+   "level": "hoch",
+   "src": "Deribit / CME",
+   "coins": [
+    "BTC",
+    "ETH"
+   ]
   }
  ]
 }

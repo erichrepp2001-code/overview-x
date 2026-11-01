@@ -209,7 +209,9 @@ def main():
     confirmed = [o for o in out if o["_n"] >= 2][:MAX_ITEMS]
     if len(confirmed) < MIN_ITEMS:
         confirmed += [o for o in out if o["_n"] < 2 and o["_core"]][:MIN_ITEMS - len(confirmed)]
-    out = confirmed
+    # XRP ist am wichtigsten: XRP-Meldungen immer dabei (bis zu 3 zusätzlich, auch mit nur 1 Quelle)
+    xrp = [o for o in out if o not in confirmed and any(c["sym"] == "XRP" for c in o["coins"])]
+    out = confirmed + xrp[:3]
     for o in out:
         for k in ("_score", "_n", "_core"):
             del o[k]
