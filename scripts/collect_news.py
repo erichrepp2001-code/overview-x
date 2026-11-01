@@ -35,7 +35,7 @@ CORE = {"BTC", "ETH", "SOL", "XRP"}
 # Füllmaterial: Rückblicke, Meinungen, Kursprognosen, Werbung
 JUNK = re.compile(r"what happened in crypto|price prediction|price analysis|\banalyst says\b|\bopinion\b|op-ed|podcast|newsletter|"
                   r"sponsored|press release|\bhow to\b|\bguide\b|explained|\bweekly\b|\bdaily\b|recap|roundup|\bwhy\b|"
-                  r"\bcould\b|\bmight\b|\bhere'?s\b|\bhere’s\b|\?$|\bmemecoin of\b|\bbest crypto\b|\btop \d+\b", re.I)
+                  r"\bcould\b|\bmight\b|\bhere'?s\b|\bhere’s\b|\?$|\bmemecoin of\b|\bbest crypto\b|\btop \d+\b|\bturns \d+\b|anniversary|birthday", re.I)
 
 # Coin-Erkennung: (Kürzel, CoinGecko-ID, Muster ohne Groß/Klein, Muster mit exakter Schreibweise)
 COINS = [
