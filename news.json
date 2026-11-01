@@ -1,5 +1,5 @@
 {
- "updated": 1793551542,
+ "updated": 1793559188,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin redemption freeze puts $136 million Aave market under scrutiny",
+   "teaser": "Borrowers can repay or add other eligible collateral, but Aave withdrawals do not reopen Threshold’s paused Bitcoin redemption route. Read the full story on CryptoSlate Understand the crypto stories …",
+   "link": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/",
+   "t": 1793554800,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Ethereum validators pocket $30 million windfall as Binance hackers lose $119 million in rushed trades",
    "teaser": "Bitquery estimates about 11,217 ETH reached proposing validators while builders retained about 564 ETH over four and a half hours. Read the full story on CryptoSlate Understand the crypto stories …",
@@ -24,24 +42,6 @@
     {
      "sym": "ETH",
      "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "Zero-token withdrawals let a hacker drain 97 million CORE from Bitcoin staking platform b14g",
-   "teaser": "Bitcoin staking platform b14g suffered a $1.47 million exploit on Oct. 31, losing approximately 97 million CORE tokens. The attacker drained 91 staking positions in a single transaction by submitting …",
-   "link": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
-   "t": 1793539252,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   },
