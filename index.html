@@ -107,6 +107,10 @@
   .news { display: grid; gap: 12px; }
   .item { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius-lg); padding: 18px 20px; }
   .item h3 { font-size: 16.5px; font-weight: 650; letter-spacing: -0.01em; }
+  .item h3 a { color: inherit; text-decoration: none; }
+  .srcs { margin-top: 10px; font-size: 12px; color: var(--muted); }
+  .srcs a { color: var(--muted); text-decoration: none; }
+  .react .logo.sm { width: 18px; height: 18px; }
   .item p { color: var(--muted); font-size: 14.5px; margin-top: 6px; max-width: 70ch; }
   .meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; align-items: center; font-size: 12.5px; color: var(--muted); }
   .pill { background: var(--panel-2); border-radius: 999px; padding: 3px 10px; }
@@ -207,10 +211,11 @@
 
   <div id="view-news" hidden>
   <h2 class="spaced head news-h">News<button type="button" class="refresh" id="news-refresh" aria-label="News aktualisieren">↻</button></h2>
-  <p class="note">Vorschau mit Beispielmeldungen. Echte News folgen im nächsten Schritt.</p>
+  <p class="note"><span id="news-stamp"></span><br>Originalschlagzeilen auf Englisch. Antippen öffnet den Artikel.</p>
   <section class="news" id="news"></section>
 
   <h2 class="spaced">Kommende Woche <span>Wichtige Termine im Blick</span></h2>
+  <p class="note">Noch Beispieltermine. Echte Termine folgen im nächsten Schritt.</p>
   <section class="news" id="ahead"></section>
 
   </div>
@@ -371,12 +376,53 @@
     clearTimeout(toast.t); toast.t = setTimeout(function () { t.classList.remove("show"); }, 3200);
   }
 
-  // ---------- Beispiel-News (bis zum News-Schritt) ----------
-  var news = [
-    { t: "Beispielmeldung: Hier steht später eine kurze Überschrift", p: "Hier erscheint die deutsche Zusammenfassung der wichtigsten Nachrichten der Nacht, in zwei bis drei Sätzen.", src: 3, time: "vor 5 Std.", react: [["BTC", 2.1], ["ETH", 1.4]] },
-    { t: "Beispielmeldung: Eine zweite Meldung zu Ihren Coins", p: "Meldungen werden nur als gesichert markiert, wenn mehrere unabhängige Quellen sie bestätigen.", src: 2, time: "vor 7 Std.", react: [["SOL", -0.8]] },
-    { t: "Beispielmeldung: Noch nicht bestätigt", p: "Meldungen mit nur einer Quelle bekommen einen Hinweis, damit Sie sie besser einordnen können.", src: 1, time: "vor 9 Std.", react: [["XRP", 0.3]] }
-  ];
+  // ---------- News (gesammelt von GitHub, siehe scripts/collect_news.py) ----------
+  var newsCache = load("news_v1");          // { day, at, data }
+  var newsState = newsCache ? "ok" : "loading";
+  function today() { var d = new Date(); return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate(); }
+  function loadNews(force) {
+    if (!force && newsCache && newsCache.day === today()) { newsState = "ok"; render(); return Promise.resolve(); }
+    newsState = "loading"; render();
+    return getJSON("news.json?t=" + Date.now()).then(function (d) {
+      newsCache = { day: today(), at: Date.now(), data: d }; store("news_v1", newsCache);
+      newsState = "ok"; render();
+      if (force) toast("News aktualisiert.");
+    }).catch(function () {
+      newsState = "error"; render();
+      if (force) toast("News gerade nicht erreichbar.");
+    });
+  }
+  function ago(ts) {
+    var m = Math.max(1, Math.round((Date.now() - ts * 1000) / 60000));
+    return m < 60 ? "vor " + m + " Min." : m < 1440 ? "vor " + Math.round(m / 60) + " Std." : "vor " + Math.round(m / 1440) + " T.";
+  }
+  // Kursbewegung seit der Meldung, aus dem stündlichen 7-Tage-Verlauf
+  function reaction(id, ts) {
+    var c = byId(id);
+    if (!c || !c.spark || c.spark.length < 24 || c.usd == null) return null;
+    var h = (Date.now() - ts * 1000) / 3.6e6, step = 168 / (c.spark.length - 1);
+    if (h < 1 || h > 160) return null;
+    var then = c.spark[c.spark.length - 1 - Math.round(h / step)];
+    return then ? { c: c, v: (c.usd / then - 1) * 100 } : null;
+  }
+  function newsHtml() {
+    var d = newsCache && newsCache.data;
+    if (!d) return '<div class="item skel">' + (newsState === "error" ? "News konnten nicht geladen werden." : "News werden geladen …") + "</div>";
+    if (!d.items || !d.items.length) return '<div class="item skel">Gerade keine wichtigen Meldungen.</div>';
+    return d.items.map(function (n) {
+      var k = n.sources.length;
+      var st = k >= 2 ? '<span class="pill ok">' + k + " Quellen bestätigt</span>" : '<span class="pill warn">Nur 1 Quelle</span>';
+      var r = (n.coins || []).map(function (x) {
+        var re = reaction(x.id, n.t);
+        if (!re) return '<span class="pill">' + esc(x.sym) + "</span>";
+        return '<span class="react" title="Kursbewegung seit der Meldung"><span class="logo sm"><img src="' + esc(re.c.img) + '" alt=""></span>' + esc(x.sym) + ' <span class="num ' + cls(re.v) + '">' + fmtPct(re.v) + "</span></span>";
+      }).join("");
+      var src = n.sources.map(function (x) { return '<a href="' + esc(x.link) + '" target="_blank" rel="noopener noreferrer">' + esc(x.name) + "</a>"; }).join(" · ");
+      return '<article class="item"><h3><a href="' + esc(n.link) + '" target="_blank" rel="noopener noreferrer">' + esc(n.title) + "</a></h3>" +
+        (n.teaser ? "<p>" + esc(n.teaser) + "</p>" : "") +
+        '<div class="meta">' + st + r + "<span>" + ago(n.t) + '</span></div><div class="srcs">' + src + "</div></article>";
+    }).join("");
+  }
   var ahead = [
     { when: "Dienstag", t: "Beispieltermin: Wichtige Wirtschaftsdaten aus den USA", p: "Hier steht später, was erwartet wird und warum es für Krypto wichtig sein kann.", coins: ["BTC", "ETH"], level: "hoch" },
     { when: "Mittwoch", t: "Beispieltermin: Zinsentscheidung der US-Notenbank", p: "Solche Termine bewegen den ganzen Markt, oft schon vorher.", coins: ["BTC"], level: "hoch" },
@@ -417,11 +463,9 @@
       worldCard("S&amp;P 500", "US-Aktien", "sp", null) +
       worldCard("Öl", "Brent-Rohöl", "oil", null);
 
-    document.getElementById("news").innerHTML = news.map(function (n) {
-      var st = n.src >= 2 ? '<span class="pill ok">' + n.src + " Quellen bestätigt</span>" : '<span class="pill warn">Nur 1 Quelle</span>';
-      var r = n.react.map(function (x) { return '<span class="react">' + letterLogo(x[0], true) + '<span class="num ' + cls(x[1]) + '">' + fmtPct(x[1]) + "</span></span>"; }).join("");
-      return '<article class="item"><h3>' + n.t + "</h3><p>" + n.p + '</p><div class="meta">' + st + r + "<span>" + n.time + "</span></div></article>";
-    }).join("");
+    document.getElementById("news").innerHTML = newsHtml();
+    var nd = newsCache && newsCache.data;
+    document.getElementById("news-stamp").textContent = newsState === "loading" ? "wird geladen …" : nd ? "Gesammelt " + new Date(nd.updated * 1000).toLocaleString("de-DE", { weekday: "short", hour: "2-digit", minute: "2-digit" }) + " Uhr · " + nd.feeds.length + " Quellen" : "";
     document.getElementById("ahead").innerHTML = ahead.map(function (a) {
       var tags = a.coins.map(function (s) { return '<span class="pill">' + s + "</span>"; }).join("");
       return '<article class="item event"><div class="when">' + a.when + "</div><div><h3>" + a.t + "</h3><p>" + a.p + '</p><div class="meta"><span class="pill ' + (a.level === "hoch" ? "hi" : "mid") + '">Bedeutung: ' + a.level + "</span>" + tags + "</div></div></article>";
@@ -568,13 +612,14 @@
   function setCurrency(c) { currency = c; store("currency", c); render(); }
   document.getElementById("btn-eur").addEventListener("click", function () { setCurrency("EUR"); });
   document.getElementById("btn-usd").addEventListener("click", function () { setCurrency("USD"); });
-  document.getElementById("news-refresh").addEventListener("click", function () { toast("Kommt im News-Schritt: Hier werden die News später neu geladen."); });
+  document.getElementById("news-refresh").addEventListener("click", function () { loadNews(true); });
 
   function setView(v) {
     document.getElementById("view-markt").hidden = v !== "markt";
     document.getElementById("view-news").hidden = v !== "news";
     document.getElementById("tab-markt").setAttribute("aria-pressed", v === "markt");
     document.getElementById("tab-news").setAttribute("aria-pressed", v === "news");
+    if (v === "news" && (!newsCache || newsCache.day !== today())) loadNews(false);
     window.scrollTo(0, 0);
     bar.classList.remove("hide");
   }
@@ -632,6 +677,7 @@
 
   render();
   refresh();
+  loadNews(false);
 })();
 
 </script>
