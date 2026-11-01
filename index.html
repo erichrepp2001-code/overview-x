@@ -524,7 +524,7 @@
   // ---------- Kommende Woche (offizielle Termine, events.json) ----------
   var eventsCache = load("events_v1"), eventsState = eventsCache ? "ok" : "loading";
   function loadEvents() {
-    if (eventsCache && Date.now() - eventsCache.at < 12 * 3600e3) return;
+    if (eventsCache && Date.now() - eventsCache.at < 5 * 60e3) return;   // kleine Datei: bei jedem Öffnen frisch laden
     getJSON("events.json?t=" + Date.now()).then(function (d) {
       eventsCache = { at: Date.now(), data: d }; store("events_v1", eventsCache); eventsState = "ok"; render();
     }).catch(function () { eventsState = eventsCache ? "ok" : "error"; render(); });
