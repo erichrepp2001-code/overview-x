@@ -1,5 +1,5 @@
 {
- "updated": 1793582161,
+ "updated": 1793588354,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,20 +10,28 @@
  ],
  "items": [
   {
-   "title": "Bitcoin redemption freeze puts $136 million Aave market under scrutiny",
-   "teaser": "Borrowers can repay or add other eligible collateral, but Aave withdrawals do not reopen Threshold’s paused Bitcoin redemption route. Read the full story on CryptoSlate Understand the crypto stories …",
-   "link": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/",
-   "t": 1793554800,
+   "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+   "teaser": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
+   "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1793584308,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/"
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": [
     {
      "sym": "BTC",
      "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    },
+    {
+     "sym": "SOL",
+     "id": "solana"
     }
    ]
   },
