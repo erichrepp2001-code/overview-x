@@ -1,5 +1,5 @@
 {
- "updated": 1793573067,
+ "updated": 1793582161,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -36,6 +36,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "CryptoSlate",
