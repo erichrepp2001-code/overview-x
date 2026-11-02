@@ -1,5 +1,5 @@
 {
- "updated": 1793639584,
+ "updated": 1793646273,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -66,6 +66,23 @@
    ]
   },
   {
+   "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+   "teaser": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
+   "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+   "t": 1793633203,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/50-companies-blocks-okx-ice-token"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
    "teaser": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
    "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
@@ -123,24 +140,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
-   "teaser": "Ledger readings showed similar XRP/RLUSD pool reserves and uneven funded offers, while the reported supply decline's cause remains unresolved. Read the full story on CryptoSlate Understand the crypto …",
-   "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
-   "t": 1793590842,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
     }
    ]
   },
