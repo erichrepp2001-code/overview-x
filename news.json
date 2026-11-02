@@ -1,5 +1,5 @@
 {
- "updated": 1793617726,
+ "updated": 1793625510,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,20 +10,24 @@
  ],
  "items": [
   {
-   "title": "Polygon brings US banking access to Solana’s $15 billion stablecoin market",
-   "teaser": "Polygon’s OMS expansion lets eligible foreign businesses connect Solana stablecoins to bank rails after verification, within early-access and jurisdiction limits. Read the full story on CryptoSlate …",
-   "link": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/",
-   "t": 1793613653,
+   "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+   "teaser": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+   "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+   "t": 1793594476,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/"
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports"
     }
    ],
    "coins": [
     {
-     "sym": "SOL",
-     "id": "solana"
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
@@ -44,6 +48,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+   "teaser": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
+   "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+   "t": 1793557548,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
@@ -85,40 +106,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-   "teaser": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
-   "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-   "t": 1793495405,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
-    {
-     "sym": "SOL",
-     "id": "solana"
     }
    ]
   }
