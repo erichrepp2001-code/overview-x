@@ -1,5 +1,5 @@
 {
- "updated": 1793610943,
+ "updated": 1793617726,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,20 +10,20 @@
  ],
  "items": [
   {
-   "title": "Bitcoin Lightning’s year-old security fixes still missing from 71% of flagged nodes",
-   "teaser": "An October 21 preprint estimates 71% of an exposed LND cohort remained on affected release lines at its October 13 cutoff. Read the full story on CryptoSlate Understand the crypto stories that matter …",
-   "link": "https://cryptoslate.com/bitcoin-lightnings-year-old-security-fixes-still-missing-from-71-of-flagged-nodes/",
-   "t": 1793609732,
+   "title": "Polygon brings US banking access to Solana’s $15 billion stablecoin market",
+   "teaser": "Polygon’s OMS expansion lets eligible foreign businesses connect Solana stablecoins to bank rails after verification, within early-access and jurisdiction limits. Read the full story on CryptoSlate …",
+   "link": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/",
+   "t": 1793613653,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-lightnings-year-old-security-fixes-still-missing-from-71-of-flagged-nodes/"
+     "link": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/"
     }
    ],
    "coins": [
     {
-     "sym": "BTC",
-     "id": "bitcoin"
+     "sym": "SOL",
+     "id": "solana"
     }
    ]
   },
