@@ -1,5 +1,5 @@
 {
- "updated": 1793588354,
+ "updated": 1793596236,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,28 +10,38 @@
  ],
  "items": [
   {
-   "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-   "teaser": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
-   "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793584308,
+   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+   "teaser": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+   "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+   "t": 1793594542,
    "sources": [
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
     }
    ],
    "coins": [
     {
      "sym": "BTC",
      "id": "bitcoin"
-    },
+    }
+   ]
+  },
+  {
+   "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
+   "teaser": "Ledger readings showed similar XRP/RLUSD pool reserves and uneven funded offers, while the reported supply decline's cause remains unresolved. Read the full story on CryptoSlate Understand the crypto …",
+   "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
+   "t": 1793590842,
+   "sources": [
     {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/"
+    }
+   ],
+   "coins": [
     {
-     "sym": "SOL",
-     "id": "solana"
+     "sym": "XRP",
+     "id": "ripple"
     }
    ]
   },
@@ -95,10 +105,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/fbi-blames-north-korea-for-6-billion-binance-hack-urges-thorchain-to-block-stolen-funds/"
     }
    ],
    "coins": [
