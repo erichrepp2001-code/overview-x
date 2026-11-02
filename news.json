@@ -1,5 +1,5 @@
 {
- "updated": 1793646273,
+ "updated": 1793652773,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -48,6 +48,10 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
     },
     {
      "name": "Decrypt",
