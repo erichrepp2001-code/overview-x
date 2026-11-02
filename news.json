@@ -1,5 +1,5 @@
 {
- "updated": 1793605002,
+ "updated": 1793610943,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,14 @@
  ],
  "items": [
   {
-   "title": "Treasury dealers’ financing burden can outlast their bond holdings, Fed study finds",
-   "teaser": "Customer financing persisted beyond inventory effects in historical data, leaving Bitcoin spillover dependent on evidence from crypto credit markets. Read the full story on CryptoSlate Understand the …",
-   "link": "https://cryptoslate.com/treasury-dealers-financing-burden-can-outlast-their-bond-holdings-fed-study-finds/",
-   "t": 1793602853,
+   "title": "Bitcoin Lightning’s year-old security fixes still missing from 71% of flagged nodes",
+   "teaser": "An October 21 preprint estimates 71% of an exposed LND cohort remained on affected release lines at its October 13 cutoff. Read the full story on CryptoSlate Understand the crypto stories that matter …",
+   "link": "https://cryptoslate.com/bitcoin-lightnings-year-old-security-fixes-still-missing-from-71-of-flagged-nodes/",
+   "t": 1793609732,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/treasury-dealers-financing-burden-can-outlast-their-bond-holdings-fed-study-finds/"
+     "link": "https://cryptoslate.com/bitcoin-lightnings-year-old-security-fixes-still-missing-from-71-of-flagged-nodes/"
     }
    ],
    "coins": [
