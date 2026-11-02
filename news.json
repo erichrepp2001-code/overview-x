@@ -1,5 +1,5 @@
 {
- "updated": 1793652773,
+ "updated": 1793659858,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -109,11 +109,37 @@
    ]
   },
   {
-   "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-   "teaser": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
-   "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+   "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+   "teaser": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
+   "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+   "t": 1793625576,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/strategys-deployable-cash-falls-45-as-buybacks-outpace-bitcoin-purchases/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+   "teaser": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
    "t": 1793615779,
    "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
+    },
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
