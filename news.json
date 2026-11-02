@@ -1,5 +1,5 @@
 {
- "updated": 1793625510,
+ "updated": 1793631746,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -79,6 +79,10 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack"
     },
     {
      "name": "CryptoSlate",
