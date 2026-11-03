@@ -1,5 +1,5 @@
 {
- "updated": 1793739358,
+ "updated": 1793746433,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+   "teaser": "Objections have reached 56 companies, with nearly 80% of the venture’s initial stock selection opting out.",
+   "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+   "t": 1793722671,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
    "teaser": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
@@ -126,6 +143,10 @@
      "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
     },
     {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
+    },
+    {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says"
     }
@@ -221,35 +242,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
-   "teaser": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals.",
-   "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
-   "t": 1793615779,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack"
-    }
-   ],
-   "coins": []
   }
  ]
 }
