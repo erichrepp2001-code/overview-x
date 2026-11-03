@@ -1,5 +1,5 @@
 {
- "updated": 1793659858,
+ "updated": 1793668408,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -60,6 +60,10 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/"
     }
    ],
    "coins": [
@@ -99,6 +103,10 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/"
     }
    ],
    "coins": [
