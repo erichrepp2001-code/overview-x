@@ -1,5 +1,5 @@
 {
- "updated": 1793725507,
+ "updated": 1793732523,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,18 +10,18 @@
  ],
  "items": [
   {
-   "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "teaser": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
-   "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
-   "t": 1793722094,
+   "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+   "teaser": "Objections have reached 56 companies, with nearly 80% of the venture’s initial stock selection opting out.",
+   "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+   "t": 1793722671,
    "sources": [
     {
      "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties"
+     "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms"
     },
     {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439"
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock"
     }
    ],
    "coins": []
@@ -104,21 +104,26 @@
    ]
   },
   {
-   "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
-   "teaser": "While investigators found no evidence that AI agents laundered the stolen Binance funds, Zhao stressed that automated tools are lowering the barrier for complex breaches.",
-   "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-   "t": 1793702442,
+   "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+   "teaser": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wouldn’t appear in the report.",
+   "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+   "t": 1793700953,
    "sources": [
     {
      "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist"
+     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
     },
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bybit-and-bitget-see-crypto-deposits-surge-following-binances-6-3-billion-hack/"
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says"
     }
    ],
-   "coins": []
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   },
   {
    "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
@@ -137,6 +142,10 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/north-korea-denies-role-in-6-billion-binance-hack-after-fbi-accusation/"
     }
    ],
    "coins": []
