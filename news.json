@@ -1,5 +1,5 @@
 {
- "updated": 1793674729,
+ "updated": 1793682155,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Kinetic’s $24 million XRP-linked lending market showed a 0.04% base rate before rewards",
+   "teaser": "Kinetic’s November 1 snapshots separate modest FXRP loan demand from collateral use and incentive-supported returns. Read the full story on CryptoSlate Understand the crypto stories that matter and …",
+   "link": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/",
+   "t": 1793676037,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
    "teaser": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
@@ -149,6 +167,10 @@
      "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
     },
     {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
      "name": "Decrypt",
      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
     },
@@ -194,23 +216,6 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-   "teaser": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
-   "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-   "t": 1793550751,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
