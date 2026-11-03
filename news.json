@@ -1,5 +1,5 @@
 {
- "updated": 1793690463,
+ "updated": 1793696392,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -26,6 +26,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+   "teaser": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+   "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+   "t": 1793674653,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
