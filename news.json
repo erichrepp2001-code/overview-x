@@ -1,5 +1,5 @@
 {
- "updated": 1793696392,
+ "updated": 1793703726,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -40,6 +40,27 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+   "teaser": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
+   "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+   "t": 1793660827,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
     }
    ],
    "coins": []
@@ -95,10 +116,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/"
     }
    ],
    "coins": [
@@ -152,28 +169,6 @@
    ]
   },
   {
-   "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-   "teaser": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
-   "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
-   "t": 1793625576,
-   "sources": [
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/strategys-deployable-cash-falls-45-as-buybacks-outpace-bitcoin-purchases/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
    "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
    "teaser": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
    "link": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
@@ -194,23 +189,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-   "teaser": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
-   "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793597642,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports"
     }
    ],
    "coins": []
