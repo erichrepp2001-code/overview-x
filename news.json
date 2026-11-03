@@ -1,5 +1,5 @@
 {
- "updated": 1793711601,
+ "updated": 1793717976,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -53,20 +53,28 @@
    "coins": []
   },
   {
-   "title": "Kinetic’s $24 million XRP-linked lending market showed a 0.04% base rate before rewards",
-   "teaser": "Kinetic’s November 1 snapshots separate modest FXRP loan demand from collateral use and incentive-supported returns. Read the full story on CryptoSlate Understand the crypto stories that matter and …",
-   "link": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/",
-   "t": 1793676037,
+   "title": "CFTC Opens U.S. Stock Market to Equity Perpetual Futures",
+   "teaser": "Bitcoin Magazine CFTC Opens U.S. Stock Market to Equity Perpetual Futures The CFTC has cleared perpetual futures on individual stocks to trade on dual-registered U.S. exchanges for the first time …",
+   "link": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
+   "t": 1793684437,
    "sources": [
     {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures"
+    },
+    {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/kinetics-24-million-xrp-linked-lending-market-showed-a-0-04-base-rate-before-rewards/"
+     "link": "https://cryptoslate.com/aave-horizon-taps-perpetual-futures-to-price-stock-collateral-on-weekends-chainlink-says/"
     }
    ],
    "coins": [
     {
-     "sym": "XRP",
-     "id": "ripple"
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "LINK",
+     "id": "chainlink"
     }
    ]
   },
@@ -167,23 +175,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-   "teaser": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
-   "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
-   "t": 1793633203,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/50-companies-blocks-okx-ice-token"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
