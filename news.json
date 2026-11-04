@@ -1,12 +1,11 @@
 {
- "updated": 1793777275,
+ "updated": 1793783089,
  "feeds": [
   "CoinDesk",
   "The Block",
   "Cointelegraph",
   "Decrypt",
-  "Bitcoin Magazine",
-  "CryptoSlate"
+  "Bitcoin Magazine"
  ],
  "items": [
   {
@@ -44,20 +43,24 @@
    "coins": []
   },
   {
-   "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
-   "teaser": "At the November 2 close, an independent comparison narrows XRP’s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlate Understand the crypto …",
-   "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
-   "t": 1793749207,
+   "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+   "teaser": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
+   "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+   "t": 1793729187,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/"
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says"
     }
    ],
    "coins": [
     {
-     "sym": "XRP",
-     "id": "ripple"
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
@@ -78,10 +81,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/justin-sun-demands-court-sanctions-over-trump-linked-world-liberty-financials-hidden-uae-owners/"
     }
    ],
    "coins": []
@@ -188,32 +187,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-   "teaser": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wouldn’t appear in the report.",
-   "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-   "t": 1793700953,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says"
     }
    ],
    "coins": [
