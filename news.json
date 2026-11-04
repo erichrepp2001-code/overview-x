@@ -1,5 +1,5 @@
 {
- "updated": 1793819213,
+ "updated": 1793825965,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,14 @@
  ],
  "items": [
   {
-   "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
-   "teaser": "Bitcoin Magazine Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress Bitcoin trades near $79,000 after a dip to $75,600 as Democrats sweep both chambers of Congress. This post …",
-   "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
-   "t": 1793802095,
+   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+   "teaser": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+   "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+   "t": 1793816458,
    "sources": [
     {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep"
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030"
     },
     {
      "name": "CryptoSlate",
@@ -28,8 +28,29 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
     }
    ]
+  },
+  {
+   "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+   "teaser": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
+   "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+   "t": 1793811522,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
@@ -52,23 +73,6 @@
      "id": "solana"
     }
    ]
-  },
-  {
-   "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-   "teaser": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
-   "link": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-   "t": 1793795634,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/circle-crcl-cuts-about-5-of-workforce"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
@@ -130,20 +134,20 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million"
     }
    ],
    "coins": []
   },
   {
-   "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "teaser": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
-   "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+   "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+   "teaser": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
    "t": 1793722094,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties"
-    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439"
