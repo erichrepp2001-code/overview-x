@@ -1,5 +1,5 @@
 {
- "updated": 1793761109,
+ "updated": 1793768813,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
+   "teaser": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
+   "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+   "t": 1793763330,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
    "teaser": "At the November 2 close, an independent comparison narrows XRP’s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlate Understand the crypto …",
@@ -28,23 +45,6 @@
    ]
   },
   {
-   "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
-   "teaser": "Objections have reached 56 companies, with nearly 80% of the venture’s initial stock selection opting out.",
-   "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
-   "t": 1793722671,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
    "teaser": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
    "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
@@ -61,6 +61,10 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/justin-sun-demands-court-sanctions-over-trump-linked-world-liberty-financials-hidden-uae-owners/"
     }
    ],
    "coins": []
@@ -177,6 +181,28 @@
    ]
   },
   {
+   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+   "teaser": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
+   "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+   "t": 1793696208,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
    "teaser": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
    "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
@@ -200,66 +226,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
-   "teaser": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
-   "link": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
-   "t": 1793638375,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
-    {
-     "sym": "SOL",
-     "id": "solana"
-    },
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-   "teaser": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
-   "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-   "t": 1793635745,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
