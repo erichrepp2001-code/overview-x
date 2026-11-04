@@ -1,5 +1,5 @@
 {
- "updated": 1793746433,
+ "updated": 1793754895,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
+   "teaser": "At the November 2 close, an independent comparison narrows XRP’s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlate Understand the crypto …",
+   "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
+   "t": 1793749207,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
    "teaser": "Objections have reached 56 companies, with nearly 80% of the venture’s initial stock selection opting out.",
