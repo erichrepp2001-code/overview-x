@@ -1,5 +1,5 @@
 {
- "updated": 1793811805,
+ "updated": 1793819213,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
+   "teaser": "Bitcoin Magazine Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress Bitcoin trades near $79,000 after a dip to $75,600 as Democrats sweep both chambers of Congress. This post …",
+   "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
+   "t": 1793802095,
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
    "teaser": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
@@ -66,6 +88,28 @@
    "coins": []
   },
   {
+   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+   "teaser": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+   "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+   "t": 1793772364,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
    "teaser": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
    "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
@@ -91,28 +135,6 @@
    "coins": []
   },
   {
-   "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-   "teaser": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
-   "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-   "t": 1793729187,
-   "sources": [
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
    "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
    "teaser": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
    "link": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
@@ -133,31 +155,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/justin-sun-demands-court-sanctions-over-trump-linked-world-liberty-financials-hidden-uae-owners/"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
-   "teaser": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
-   "link": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
-   "t": 1793720074,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job"
     }
    ],
    "coins": []
@@ -166,7 +163,7 @@
    "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
    "teaser": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
    "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
-   "t": 1793717458,
+   "t": 1793720270,
    "sources": [
     {
      "name": "The Block",
@@ -179,10 +176,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures"
     }
    ],
    "coins": []
