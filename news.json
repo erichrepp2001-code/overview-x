@@ -1,5 +1,5 @@
 {
- "updated": 1793804364,
+ "updated": 1793811805,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+   "teaser": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
+   "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+   "t": 1793797200,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "SOL",
+     "id": "solana"
+    }
+   ]
+  },
   {
    "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
    "teaser": "Circle’s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
@@ -67,41 +89,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "South Korea's ruling party wants to delay its crypto tax again",
-   "teaser": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
-   "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-   "t": 1793760712,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
-   "teaser": "At the November 2 close, an independent comparison narrows XRP’s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlate Understand the crypto …",
-   "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
-   "t": 1793749207,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
   },
   {
    "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
