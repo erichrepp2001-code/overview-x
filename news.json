@@ -1,5 +1,5 @@
 {
- "updated": 1793847519,
+ "updated": 1793855315,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -143,43 +143,35 @@
    "coins": []
   },
   {
-   "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
-   "teaser": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
-   "t": 1793722094,
+   "title": "South Korea's ruling party wants to delay its crypto tax again",
+   "teaser": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
+   "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+   "t": 1793760712,
    "sources": [
     {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
+    },
+    {
      "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
+     "link": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
     }
    ],
    "coins": []
   },
   {
-   "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-   "teaser": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
-   "t": 1793720270,
+   "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+   "teaser": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+   "t": 1793743911,
    "sources": [
     {
      "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422"
+     "link": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492"
     },
     {
      "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures"
+     "link": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
