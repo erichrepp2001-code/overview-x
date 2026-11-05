@@ -1,5 +1,5 @@
 {
- "updated": 1793891206,
+ "updated": 1793899427,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+   "teaser": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
+   "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+   "t": 1793887200,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
    "teaser": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
@@ -93,14 +110,14 @@
    "coins": []
   },
   {
-   "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
-   "teaser": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
-   "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
-   "t": 1793768261,
+   "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
+   "teaser": "Crédit Mutuel Arkéa did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
+   "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+   "t": 1793806231,
    "sources": [
     {
      "name": "The Block",
-     "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+     "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372"
     },
     {
      "name": "Cointelegraph",
@@ -109,10 +126,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million"
     }
    ],
    "coins": []
