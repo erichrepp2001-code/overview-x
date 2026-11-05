@@ -1,5 +1,5 @@
 {
- "updated": 1793884931,
+ "updated": 1793891206,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+   "teaser": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
+   "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+   "t": 1793883662,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "SOL",
+     "id": "solana"
+    }
+   ]
+  },
   {
    "title": "Ripple-backed Evernorth faces 73.7 million-share selling overhang after brutal stock market debut",
    "teaser": "Evernorth filed to register 73.7 million shares for potential resale as its stock plunged following its Nasdaq debut. The XRP treasury company's Oct. 30 SEC filing identifies Ripple Labs, Arrington …",
@@ -69,28 +91,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-   "teaser": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
-   "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-   "t": 1793797200,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "SOL",
-     "id": "solana"
-    }
-   ]
   },
   {
    "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
