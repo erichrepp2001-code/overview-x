@@ -1,5 +1,5 @@
 {
- "updated": 1793863730,
+ "updated": 1793869847,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,46 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Ripple-backed Evernorth faces 73.7 million-share selling overhang after brutal stock market debut",
+   "teaser": "Evernorth filed to register 73.7 million shares for potential resale as its stock plunged following its Nasdaq debut. The XRP treasury company's Oct. 30 SEC filing identifies Ripple Labs, Arrington …",
+   "link": "https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut/",
+   "t": 1793867413,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
+   "teaser": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
+   "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+   "t": 1793843089,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
    "teaser": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
@@ -96,28 +136,6 @@
    "coins": []
   },
   {
-   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-   "teaser": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
-   "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-   "t": 1793772364,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
    "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
    "teaser": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
    "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
@@ -159,23 +177,6 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-   "teaser": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
-   "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793738162,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
     }
    ],
    "coins": []
