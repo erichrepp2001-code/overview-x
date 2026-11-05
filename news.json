@@ -1,5 +1,5 @@
 {
- "updated": 1793905515,
+ "updated": 1793912278,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -78,6 +78,10 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/"
     }
    ],
    "coins": []
