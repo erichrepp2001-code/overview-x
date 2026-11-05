@@ -1,5 +1,5 @@
 {
- "updated": 1793912278,
+ "updated": 1793919360,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,50 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+   "teaser": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
+   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+   "t": 1793904520,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Paraguay president resigns after collapse of Ueno digital bank",
+   "teaser": "Santiago Peña stepped down amid mounting scrutiny over his former ties to Ueno Bank’s parent company, as the lender’s collapse left millions of customers unable to access their funds.",
+   "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1793900425,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
    "teaser": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
@@ -107,23 +151,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
-   "teaser": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
-   "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
-   "t": 1793811522,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
