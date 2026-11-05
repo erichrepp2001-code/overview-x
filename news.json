@@ -1,5 +1,5 @@
 {
- "updated": 1793877263,
+ "updated": 1793884931,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -28,11 +28,15 @@
    ]
   },
   {
-   "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
-   "teaser": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
-   "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+   "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+   "teaser": "Revenue fell to $63.4 million in the third quarter and missed analysts’ forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
+   "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
    "t": 1793843089,
    "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026"
+    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413"
@@ -46,32 +50,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
-   "teaser": "Ether jumped 4% and crypto ETFs drew fresh money after Wall Street turned higher and Brent crude fell nearly 9%.",
-   "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-   "t": 1793824371,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-80000-short"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     }
    ]
   },
@@ -115,22 +93,18 @@
    ]
   },
   {
-   "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-   "teaser": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
-   "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-   "t": 1793763330,
+   "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
+   "teaser": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
+   "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+   "t": 1793768261,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft"
-    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
     },
     {
      "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
