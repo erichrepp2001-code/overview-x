@@ -1,5 +1,5 @@
 {
- "updated": 1793963517,
+ "updated": 1793970976,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -79,6 +79,10 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Bitcoin Magazine",
