@@ -1,5 +1,5 @@
 {
- "updated": 1793970976,
+ "updated": 1793977055,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,53 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+   "teaser": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+   "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+   "t": 1793973858,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    },
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+   "teaser": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+   "t": 1793965424,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "XRP sellers face massive slip as USD order book depth fakes size",
    "teaser": "At the November 4 close, a capped sample of Bitstamp-issued USD offers held less funded inventory than the smaller RLUSD book. Read the full story on CryptoSlate Understand the crypto stories that …",
@@ -136,23 +183,6 @@
    ]
   },
   {
-   "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-   "teaser": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
-   "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793892300,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
    "teaser": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
    "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
@@ -171,28 +201,6 @@
     {
      "sym": "SOL",
      "id": "solana"
-    }
-   ]
-  },
-  {
-   "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-   "teaser": "Revenue fell to $63.4 million in the third quarter and missed analysts’ forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
-   "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-   "t": 1793868752,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   }
