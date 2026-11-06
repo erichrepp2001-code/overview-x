@@ -1,5 +1,5 @@
 {
- "updated": 1793949972,
+ "updated": 1793955966,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,41 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP sellers face massive slip as USD order book depth fakes size",
+   "teaser": "At the November 4 close, a capped sample of Bitstamp-issued USD offers held less funded inventory than the smaller RLUSD book. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/",
+   "t": 1793955000,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+   "teaser": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+   "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+   "t": 1793942088,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
    "teaser": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
@@ -30,6 +65,23 @@
      "id": "bitcoin"
     }
    ]
+  },
+  {
+   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+   "teaser": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+   "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+   "t": 1793905200,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
@@ -74,40 +126,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-   "teaser": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
-   "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793892300,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-   "teaser": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
-   "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-   "t": 1793887200,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
