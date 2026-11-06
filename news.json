@@ -1,5 +1,5 @@
 {
- "updated": 1793984399,
+ "updated": 1793991713,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,11 +10,32 @@
  ],
  "items": [
   {
-   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-   "teaser": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
-   "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+   "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+   "teaser": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
+   "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+   "t": 1793983289,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+   "teaser": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+   "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
    "t": 1793973858,
    "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
+    },
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
@@ -28,10 +49,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     },
     {
      "sym": "XRP",
@@ -79,6 +96,45 @@
    "coins": []
   },
   {
+   "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+   "teaser": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+   "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+   "t": 1793962626,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+   "teaser": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+   "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+   "t": 1793958807,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "XRP sellers face massive slip as USD order book depth fakes size",
    "teaser": "At the November 4 close, a capped sample of Bitstamp-issued USD offers held less funded inventory than the smaller RLUSD book. Read the full story on CryptoSlate Understand the crypto stories that …",
    "link": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/",
@@ -95,6 +151,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+   "teaser": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+   "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+   "t": 1793954862,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
@@ -116,97 +189,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-   "teaser": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
-   "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793911167,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
-   "teaser": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
-   "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
-   "t": 1793909462,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-   "teaser": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
-   "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-   "t": 1793905200,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-   "teaser": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-   "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-   "t": 1793904520,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
