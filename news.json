@@ -1,5 +1,5 @@
 {
- "updated": 1793955966,
+ "updated": 1793963517,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -40,6 +40,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards"
     }
    ],
    "coins": []
@@ -128,6 +132,23 @@
    ]
   },
   {
+   "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+   "teaser": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
+   "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1793892300,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
    "teaser": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
    "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
@@ -148,27 +169,6 @@
      "id": "solana"
     }
    ]
-  },
-  {
-   "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
-   "teaser": "South Korea is seeking a fourth delay to its 22% crypto tax, months after reaffirming plans to begin taxing digital asset gains in January 2027.",
-   "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793871329,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
