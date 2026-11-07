@@ -1,5 +1,5 @@
 {
- "updated": 1794041912,
+ "updated": 1794048691,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Morpho loan stress exposes cbXRP, but spares native XRP",
+   "teaser": "A November 6 snapshot placed 8.84 million USDC across 1,070 positions within a further 10% oracle decline, assuming unchanged debt and collateral. Read the full story on CryptoSlate Understand the …",
+   "link": "https://cryptoslate.com/morpho-loan-stress-exposes-cbxrp-but-spares-native-xrp/",
+   "t": 1794047451,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/morpho-loan-stress-exposes-cbxrp-but-spares-native-xrp/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
    "teaser": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
@@ -158,18 +176,9 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/"
     }
    ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
+   "coins": []
   },
   {
    "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
