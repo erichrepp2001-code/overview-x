@@ -1,5 +1,5 @@
 {
- "updated": 1794077635,
+ "updated": 1794084465,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -129,6 +129,23 @@
    "coins": []
   },
   {
+   "title": "Greece approves 10% tax on crypto gains starting in 2027",
+   "teaser": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
+   "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1793963136,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
    "teaser": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
    "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -170,44 +187,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-   "teaser": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
-   "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-   "t": 1793954862,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
-   "teaser": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
-   "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
-   "t": 1793950602,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards"
-    }
-   ],
-   "coins": []
   }
  ]
 }
