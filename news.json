@@ -1,5 +1,5 @@
 {
- "updated": 1794056388,
+ "updated": 1794063009,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -121,11 +121,15 @@
    "coins": []
   },
   {
-   "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-   "teaser": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
-   "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+   "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+   "teaser": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+   "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "t": 1793962626,
    "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations"
