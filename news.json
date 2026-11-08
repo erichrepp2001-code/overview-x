@@ -1,5 +1,5 @@
 {
- "updated": 1794128324,
+ "updated": 1794135125,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -62,35 +62,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-   "teaser": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-   "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-   "t": 1793998950,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system"
-    }
-   ],
-   "coins": []
   }
  ]
 }
