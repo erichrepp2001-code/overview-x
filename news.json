@@ -1,5 +1,5 @@
 {
- "updated": 1794100545,
+ "updated": 1794106722,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -18,6 +18,24 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
+   "teaser": "The dated comparison pairs a reserve rebound with shrinking dollar-token circulation, leaving the link to Bitcoin buying unestablished. Read the full story on CryptoSlate Understand the crypto …",
+   "link": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
+   "t": 1794055207,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/"
     }
    ],
    "coins": [
@@ -98,36 +116,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-   "teaser": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
-   "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-   "t": 1793973858,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
   }
  ]
 }
