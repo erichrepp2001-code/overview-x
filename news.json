@@ -1,5 +1,5 @@
 {
- "updated": 1794091547,
+ "updated": 1794100545,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+   "teaser": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+   "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+   "t": 1794069962,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Morpho loan stress exposes cbXRP, but spares native XRP",
    "teaser": "A November 6 snapshot placed 8.84 million USDC across 1,070 positions within a further 10% oracle decline, assuming unchanged debt and collateral. Read the full story on CryptoSlate Understand the …",
@@ -110,65 +128,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-   "teaser": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-   "t": 1793965424,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Greece approves 10% tax on crypto gains starting in 2027",
-   "teaser": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
-   "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1793963136,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-   "teaser": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
-   "t": 1793962626,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft"
-    }
-   ],
-   "coins": []
   }
  ]
 }
