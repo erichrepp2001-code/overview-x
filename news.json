@@ -1,5 +1,5 @@
 {
- "updated": 1794113984,
+ "updated": 1794121882,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -96,15 +96,11 @@
    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
    "teaser": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
    "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "t": 1793991538,
+   "t": 1793998283,
    "sources": [
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934"
     },
     {
      "name": "Cointelegraph",
