@@ -1,5 +1,5 @@
 {
- "updated": 1794156462,
+ "updated": 1794164029,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
+   "teaser": "Fidelity finished positive in the November 2-6 week, but the other funds collectively remained negative without IBIT. Read the full story on CryptoSlate Understand the crypto stories that matter and …",
+   "link": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
+   "t": 1794159044,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
    "teaser": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
@@ -54,24 +72,6 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-   "teaser": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
-   "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-   "t": 1794069962,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
     }
    ],
    "coins": [
