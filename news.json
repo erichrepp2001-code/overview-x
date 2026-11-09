@@ -1,5 +1,5 @@
 {
- "updated": 1794222391,
+ "updated": 1794230656,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,65 +10,97 @@
  ],
  "items": [
   {
-   "title": "Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average",
+   "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+   "teaser": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
+   "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+   "t": 1794227400,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "SOL",
+     "id": "solana"
+    }
+   ]
+  },
+  {
+   "title": "Coinbase’s US national trust bank charter takes effect",
+   "teaser": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products.",
+   "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794224332,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
+   "teaser": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings",
+   "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
+   "t": 1794221311,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+   "teaser": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
+   "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+   "t": 1794220435,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Live news: Bitcoin slides to $74,000 as Huang scandal weighs on Nvidia",
    "teaser": "Neocloud stocks retreat after Friday’s rally, while gold holds above $4,000 and bitcoin trades near $74,000.",
    "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-   "t": 1794221508,
+   "t": 1794195376,
    "sources": [
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-   "teaser": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.",
-   "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794218620,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-   "teaser": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances.",
-   "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-   "t": 1794215102,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
-   "teaser": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
-   "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
-   "t": 1794195376,
-   "sources": [
+    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047"
@@ -78,7 +110,12 @@
      "link": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort"
     }
    ],
-   "coins": []
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   }
  ]
 }
