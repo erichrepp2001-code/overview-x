@@ -1,5 +1,5 @@
 {
- "updated": 1794251035,
+ "updated": 1794257988,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,41 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+   "teaser": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+   "t": 1794254689,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "XRP’s new euro cash-out route had less than €100 in its direct market",
+   "teaser": "A Nov. 8 ledger snapshot offered just 96.80 EURGH to direct XRP sellers, exposing a conversion limit before GateHub's announced SEPA redemption. Read the full story on CryptoSlate Understand the …",
+   "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/",
+   "t": 1794254436,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
    "teaser": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
@@ -22,6 +57,23 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+   "teaser": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
+   "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+   "t": 1794239656,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
     }
    ],
    "coins": []
@@ -89,6 +141,10 @@
      "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060"
     },
     {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
      "name": "Decrypt",
      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec"
     }
@@ -123,23 +179,6 @@
    ]
   },
   {
-   "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
-   "teaser": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings",
-   "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
-   "t": 1794221311,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
    "teaser": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
    "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
@@ -156,23 +195,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-   "teaser": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
-   "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-   "t": 1794218400,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter"
     }
    ],
    "coins": []
