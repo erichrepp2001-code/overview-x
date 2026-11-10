@@ -1,5 +1,5 @@
 {
- "updated": 1794308365,
+ "updated": 1794316444,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,8 +10,26 @@
  ],
  "items": [
   {
-   "title": "Live news: Traders price in fed rate hike for December as bitcoin and gold retreat",
-   "teaser": "Markets price in a December Fed rate hike ahead of U.S. inflation data, while bitcoin and gold fall and oil retreats on easing Iran tensions.",
+   "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+   "teaser": "Asch is stepping down as head of the institutional prime brokerage.",
+   "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+   "t": 1794314300,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
+   "teaser": "Fed Governor Chris Waller suggested the U.S. central bank could opt to hike 50 basis points next month if inflation didn't behave.",
    "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
    "t": 1794305302,
    "sources": [
@@ -61,6 +79,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
@@ -80,6 +102,28 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+   "teaser": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.",
+   "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+   "t": 1794271359,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
@@ -125,46 +169,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "XRP’s new euro cash-out route had less than €100 in its direct market",
-   "teaser": "A Nov. 8 ledger snapshot offered just 96.80 EURGH to direct XRP sellers, exposing a conversion limit before GateHub's announced SEPA redemption. Read the full story on CryptoSlate Understand the …",
-   "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/",
-   "t": 1794254436,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
-   "teaser": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
-   "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
-   "t": 1794234760,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
   },
   {
    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
