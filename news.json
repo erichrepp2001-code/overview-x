@@ -1,5 +1,5 @@
 {
- "updated": 1794344075,
+ "updated": 1794351148,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -39,23 +39,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Hot US inflation raises odds of half-point Fed hike in December",
-   "teaser": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.",
-   "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794326957,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play/"
     }
    ],
    "coins": []
@@ -180,6 +163,32 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+   "teaser": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
+   "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+   "t": 1794281803,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
