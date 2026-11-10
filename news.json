@@ -1,5 +1,5 @@
 {
- "updated": 1794316444,
+ "updated": 1794322800,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -24,28 +24,6 @@
     {
      "sym": "XRP",
      "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
-   "teaser": "Fed Governor Chris Waller suggested the U.S. central bank could opt to hike 50 basis points next month if inflation didn't behave.",
-   "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-   "t": 1794305302,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   },
@@ -171,28 +149,46 @@
    "coins": []
   },
   {
-   "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-   "teaser": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
-   "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-   "t": 1794231606,
+   "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+   "teaser": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
+   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+   "t": 1794251163,
    "sources": [
     {
      "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208"
+     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report"
     },
     {
      "name": "Decrypt",
-     "link": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform"
+     "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation"
     }
    ],
    "coins": [
     {
-     "sym": "AVAX",
-     "id": "avalanche-2"
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
+   "teaser": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+   "t": 1794249022,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
     }
    ]
   },
