@@ -1,5 +1,5 @@
 {
- "updated": 1794279505,
+ "updated": 1794286916,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+   "teaser": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
+   "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+   "t": 1794286280,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
    "teaser": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
