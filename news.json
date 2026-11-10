@@ -1,5 +1,5 @@
 {
- "updated": 1794295273,
+ "updated": 1794301223,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -26,6 +26,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+   "teaser": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+   "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+   "t": 1794264987,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
@@ -83,23 +100,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
-   "teaser": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
-   "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
-   "t": 1794240088,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
