@@ -1,5 +1,5 @@
 {
- "updated": 1794322800,
+ "updated": 1794330009,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
+   "teaser": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
+   "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+   "t": 1794319262,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "LINK",
+     "id": "chainlink"
+    }
+   ]
+  },
   {
    "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
    "teaser": "Asch is stepping down as head of the institutional prime brokerage.",
@@ -24,6 +46,28 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+   "teaser": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
+   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+   "t": 1794307717,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
@@ -118,6 +162,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion"
     }
    ],
    "coins": [
@@ -147,50 +195,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-   "teaser": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
-   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-   "t": 1794251163,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
-   "teaser": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
-   "t": 1794249022,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
   },
   {
    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
