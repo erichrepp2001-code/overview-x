@@ -1,5 +1,5 @@
 {
- "updated": 1794373798,
+ "updated": 1794381958,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -70,23 +70,6 @@
    "coins": []
   },
   {
-   "title": "Hot US inflation raises odds of half-point Fed hike in December",
-   "teaser": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.",
-   "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794326957,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play/"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
    "teaser": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
    "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
@@ -149,22 +132,18 @@
    ]
   },
   {
-   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-   "teaser": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission’s jurisdiction.",
-   "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-   "t": 1794291550,
+   "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+   "teaser": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
+   "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
+   "t": 1794305833,
    "sources": [
     {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures"
-    },
-    {
      "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971"
+     "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002"
     },
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
     }
    ],
    "coins": []
@@ -206,6 +185,28 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+   "teaser": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.",
+   "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+   "t": 1794271359,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   }
