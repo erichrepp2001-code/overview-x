@@ -1,5 +1,5 @@
 {
- "updated": 1794424063,
+ "updated": 1794433434,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -74,6 +74,28 @@
    "coins": []
   },
   {
+   "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+   "teaser": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant.",
+   "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794395126,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
    "teaser": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
    "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
@@ -136,23 +158,6 @@
      "id": "ethereum"
     }
    ]
-  },
-  {
-   "title": "Crosschain protocol Across restores systems after domain hijack",
-   "teaser": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.",
-   "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
-   "t": 1794372150,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
