@@ -1,5 +1,5 @@
 {
- "updated": 1794403270,
+ "updated": 1794409201,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+   "teaser": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
+   "link": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+   "t": 1794397594,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
    "teaser": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
@@ -127,28 +144,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Moody’s and Chainlink test cross-chain credit ratings distribution",
-   "teaser": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
-   "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
-   "t": 1794319262,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "LINK",
-     "id": "chainlink"
-    }
-   ]
   },
   {
    "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
