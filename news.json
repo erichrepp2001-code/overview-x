@@ -1,5 +1,5 @@
 {
- "updated": 1794351148,
+ "updated": 1794359742,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -37,8 +37,29 @@
      "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
     },
     {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
      "name": "Decrypt",
      "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Hot US inflation raises odds of half-point Fed hike in December",
+   "teaser": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.",
+   "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794326957,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play/"
     }
    ],
    "coins": []
@@ -189,50 +210,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-   "teaser": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
-   "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-   "t": 1794228095,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "SOL",
-     "id": "solana"
-    }
-   ]
-  },
-  {
-   "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-   "teaser": "The exchange will move its institutional crypto custody business under federal oversight, building on its 2018 New York trust charter.",
-   "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
-   "t": 1794225036,
-   "sources": [
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
     }
    ]
   }
