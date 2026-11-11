@@ -1,5 +1,5 @@
 {
- "updated": 1794387907,
+ "updated": 1794395341,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,62 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+   "teaser": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
+   "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+   "t": 1794394294,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+   "teaser": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
+   "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+   "t": 1794378152,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
+  {
+   "title": "Crosschain protocol Across restores systems after domain hijack",
+   "teaser": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.",
+   "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+   "t": 1794372150,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
    "teaser": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
@@ -132,45 +188,6 @@
    ]
   },
   {
-   "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
-   "teaser": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
-   "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
-   "t": 1794305833,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-   "teaser": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
-   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-   "t": 1794287911,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
    "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
    "teaser": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
    "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
@@ -185,28 +202,6 @@
     {
      "sym": "XRP",
      "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
-   "teaser": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.",
-   "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
-   "t": 1794271359,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   }
