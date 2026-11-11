@@ -1,5 +1,5 @@
 {
- "updated": 1794409201,
+ "updated": 1794416693,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,49 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+   "teaser": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+   "t": 1794402062,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/ice-okx-nov-23-tokenized-stock-launch"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+   "teaser": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
+   "link": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+   "t": 1794401408,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
    "teaser": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
@@ -108,23 +151,6 @@
    "coins": []
   },
   {
-   "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
-   "teaser": "Grayscale’s Zcash push comes as its ETF faces continued withdrawals, extending October’s net outflows.",
-   "link": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
-   "t": 1794333134,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
    "teaser": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
    "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
@@ -154,46 +180,6 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-   "teaser": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
-   "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-   "t": 1794307717,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-   "teaser": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
-   "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-   "t": 1794286280,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
     }
    ],
    "coins": [
