@@ -1,5 +1,5 @@
 {
- "updated": 1794365916,
+ "updated": 1794373798,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+   "teaser": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
+   "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+   "t": 1794343802,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
    "teaser": "Grayscale’s Zcash push comes as its ETF faces continued withdrawals, extending October’s net outflows.",
@@ -184,32 +206,6 @@
     {
      "sym": "XRP",
      "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
-   "teaser": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
-   "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
-   "t": 1794281803,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   }
