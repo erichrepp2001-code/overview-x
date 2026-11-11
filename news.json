@@ -1,5 +1,5 @@
 {
- "updated": 1794416693,
+ "updated": 1794424063,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -65,6 +65,10 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
     }
    ],
    "coins": []
