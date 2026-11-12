@@ -1,5 +1,5 @@
 {
- "updated": 1794452346,
+ "updated": 1794460225,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+   "teaser": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
+   "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+   "t": 1794437087,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Binance hacker’s XRP stockpile rapidly crashes driven by Bitcoin swaps",
    "teaser": "Elliptic’s November 10 update put remaining stolen XRP at about 60 million, while swap interruptions complicate further conversions. Read the full story on CryptoSlate Understand the crypto stories …",
@@ -155,23 +177,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Crosschain protocol Across restores systems after domain hijack",
-   "teaser": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.",
-   "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
-   "t": 1794372150,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
