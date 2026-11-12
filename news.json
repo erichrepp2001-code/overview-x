@@ -1,5 +1,5 @@
 {
- "updated": 1794495872,
+ "updated": 1794503570,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
+   "teaser": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
+   "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+   "t": 1794499200,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
    "teaser": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
@@ -58,23 +75,6 @@
    ]
   },
   {
-   "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-   "teaser": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.",
-   "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-   "t": 1794485082,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
    "teaser": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities.",
    "link": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
@@ -87,19 +87,27 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm"
     }
    ],
    "coins": []
   },
   {
    "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-   "teaser": "Nasdaq 100 futures are down more than 1%, with Nvidia falling 10% on the news.",
+   "teaser": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.",
    "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
    "t": 1794474904,
    "sources": [
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Bitcoin Magazine",
@@ -154,15 +162,11 @@
    ]
   },
   {
-   "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
-   "teaser": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, sending shares down 10% to $156.",
-   "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+   "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+   "teaser": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
+   "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
    "t": 1794450225,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns"
-    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447"
@@ -174,9 +178,18 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/"
     }
    ],
-   "coins": []
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   },
   {
    "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
