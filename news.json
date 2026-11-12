@@ -1,5 +1,5 @@
 {
- "updated": 1794437998,
+ "updated": 1794446665,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -201,24 +201,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-   "teaser": "Asch is stepping down as head of the institutional prime brokerage.",
-   "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-   "t": 1794314300,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
   }
  ]
 }
