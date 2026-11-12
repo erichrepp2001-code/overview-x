@@ -1,5 +1,5 @@
 {
- "updated": 1794503570,
+ "updated": 1794510364,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
+   "teaser": "Closed-ended vaults would exchange immediate access for borrower-funded income, while optional loss cover and share-sale conditions shape the risk. Read the full story on CryptoSlate Understand the …",
+   "link": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/",
+   "t": 1794509420,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
    "teaser": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
