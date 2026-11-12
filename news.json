@@ -1,5 +1,5 @@
 {
- "updated": 1794446665,
+ "updated": 1794452346,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -160,26 +160,21 @@
    "coins": []
   },
   {
-   "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-   "teaser": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
-   "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-   "t": 1794378152,
+   "title": "Crosschain protocol Across restores systems after domain hijack",
+   "teaser": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap.",
+   "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+   "t": 1794372150,
    "sources": [
     {
      "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
+     "link": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
     },
     {
      "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
+   "coins": []
   },
   {
    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
