@@ -1,5 +1,5 @@
 {
- "updated": 1794603589,
+ "updated": 1794610360,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -26,6 +26,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+   "teaser": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+   "t": 1794596952,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
@@ -174,23 +191,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-   "teaser": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.",
-   "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-   "t": 1794517669,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
