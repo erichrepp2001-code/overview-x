@@ -1,5 +1,5 @@
 {
- "updated": 1794538597,
+ "updated": 1794546514,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -109,15 +109,11 @@
    ]
   },
   {
-   "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-   "teaser": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.",
-   "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+   "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+   "teaser": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.",
+   "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "t": 1794491942,
    "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
-    },
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -125,18 +121,9 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/"
     }
    ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
+   "coins": []
   },
   {
    "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
