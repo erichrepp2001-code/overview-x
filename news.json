@@ -1,5 +1,5 @@
 {
- "updated": 1794560887,
+ "updated": 1794568181,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -22,6 +22,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Bitcoin Magazine",
@@ -48,24 +52,6 @@
    "coins": []
   },
   {
-   "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
-   "teaser": "Closed-ended vaults would exchange immediate access for borrower-funded income, while optional loss cover and share-sale conditions shape the risk. Read the full story on CryptoSlate Understand the …",
-   "link": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/",
-   "t": 1794509420,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
    "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
    "teaser": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
    "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
@@ -81,32 +67,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
-   "teaser": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
-   "link": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-   "t": 1794492000,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
-    {
-     "sym": "SOL",
-     "id": "solana"
-    }
-   ]
   },
   {
    "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
@@ -160,6 +120,23 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+   "teaser": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.",
+   "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794481200,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm"
     }
    ],
    "coins": []
