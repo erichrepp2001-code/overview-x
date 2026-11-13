@@ -1,5 +1,5 @@
 {
- "updated": 1794581918,
+ "updated": 1794589372,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -90,23 +90,6 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
-   "teaser": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
-   "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-   "t": 1794499200,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network"
     }
    ],
    "coins": []
