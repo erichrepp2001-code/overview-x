@@ -1,5 +1,5 @@
 {
- "updated": 1794661245,
+ "updated": 1794667930,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -148,23 +148,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
-   "teaser": "The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC.",
-   "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794536967,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto"
-    }
-   ],
-   "coins": []
   }
  ]
 }
