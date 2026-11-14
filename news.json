@@ -1,5 +1,5 @@
 {
- "updated": 1794689338,
+ "updated": 1794696435,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
+   "teaser": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter …",
+   "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
+   "t": 1794696039,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
   {
    "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
    "teaser": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
@@ -69,45 +91,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-   "teaser": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
-   "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
-   "t": 1794563956,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-   "teaser": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-   "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-   "t": 1794562034,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   }
  ]
 }
