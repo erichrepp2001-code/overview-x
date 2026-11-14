@@ -1,5 +1,5 @@
 {
- "updated": 1794675038,
+ "updated": 1794682453,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,24 +9,6 @@
   "CryptoSlate"
  ],
  "items": [
-  {
-   "title": "XRP loans trigger 883 liquidations, and $53M remains at risk",
-   "teaser": "Borrowers surrendered 4.18 million cbXRP on Base, while the records leave a native XRP selling link unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to …",
-   "link": "https://cryptoslate.com/xrp-loans-trigger-883-liquidations-and-53m-remains-at-risk/",
-   "t": 1794603008,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/xrp-loans-trigger-883-liquidations-and-53m-remains-at-risk/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
   {
    "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
    "teaser": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
@@ -126,28 +108,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-   "teaser": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
-   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-   "t": 1794548726,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
