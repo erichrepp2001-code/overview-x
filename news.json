@@ -1,5 +1,5 @@
 {
- "updated": 1794705448,
+ "updated": 1794711437,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,32 @@
  ],
  "items": [
   {
-   "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
-   "teaser": "CoinGecko showed BTC near $65,500 on the afternoon of Nov. 14, while Newhedge recorded long-liquidation events below $66,000. Read the full story on CryptoSlate Understand the crypto stories that …",
-   "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
-   "t": 1794699635,
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "teaser": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+   "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "t": 1794711057,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+   "teaser": "The preprint's 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster's balance faced a 2.5-day median wait. Read the full story on CryptoSlate Understand the …",
+   "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+   "t": 1794710432,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/"
+     "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/"
     }
    ],
    "coins": [
@@ -28,24 +46,20 @@
    ]
   },
   {
-   "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
-   "teaser": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter …",
-   "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
-   "t": 1794696039,
+   "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
+   "teaser": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand …",
+   "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+   "t": 1794706852,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/"
+     "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/"
     }
    ],
    "coins": [
     {
      "sym": "BTC",
      "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     }
    ]
   },
@@ -65,28 +79,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-   "teaser": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday.",
-   "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-   "t": 1794576886,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
