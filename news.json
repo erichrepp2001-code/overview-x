@@ -1,5 +1,5 @@
 {
- "updated": 1794719013,
+ "updated": 1794726898,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -64,21 +64,22 @@
    ]
   },
   {
-   "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
-   "teaser": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
-   "t": 1794596952,
+   "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
+   "teaser": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand …",
+   "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+   "t": 1794706852,
    "sources": [
     {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight"
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/"
     }
    ],
-   "coins": []
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   }
  ]
 }
