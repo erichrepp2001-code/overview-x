@@ -1,5 +1,5 @@
 {
- "updated": 1794733070,
+ "updated": 1794740000,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,32 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+   "teaser": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+   "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794738197,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    },
+    {
+     "sym": "SOL",
+     "id": "solana"
+    }
+   ]
+  },
   {
    "title": "Solana’s “retired” validators still vote with 15% of active stake",
    "teaser": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators’ ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate …",
@@ -54,24 +80,6 @@
     {
      "name": "CryptoSlate",
      "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
-   "teaser": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand …",
-   "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
-   "t": 1794706852,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/"
     }
    ],
    "coins": [
