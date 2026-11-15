@@ -1,5 +1,5 @@
 {
- "updated": 1794696435,
+ "updated": 1794705448,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
+   "teaser": "CoinGecko showed BTC near $65,500 on the afternoon of Nov. 14, while Newhedge recorded long-liquidation events below $66,000. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
+   "t": 1794699635,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
    "teaser": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter …",
@@ -61,28 +79,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-   "teaser": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
-   "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-   "t": 1794570745,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally"
     }
    ],
    "coins": [
