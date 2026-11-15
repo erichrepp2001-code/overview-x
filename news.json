@@ -1,5 +1,5 @@
 {
- "updated": 1794761482,
+ "updated": 1794768913,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -65,24 +65,6 @@
      "sym": "ETH",
      "id": "ethereum"
     },
-    {
-     "sym": "SOL",
-     "id": "solana"
-    }
-   ]
-  },
-  {
-   "title": "Solana’s “retired” validators still vote with 15% of active stake",
-   "teaser": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators’ ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate …",
-   "link": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
-   "t": 1794715200,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/"
-    }
-   ],
-   "coins": [
     {
      "sym": "SOL",
      "id": "solana"
