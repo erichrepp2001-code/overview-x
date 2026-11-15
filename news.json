@@ -1,5 +1,5 @@
 {
- "updated": 1794775728,
+ "updated": 1794782916,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -46,11 +46,15 @@
    ]
   },
   {
-   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-   "teaser": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-   "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+   "teaser": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+   "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
    "t": 1794738197,
    "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
+    },
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -60,14 +64,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
-    {
-     "sym": "SOL",
-     "id": "solana"
     }
    ]
   },
