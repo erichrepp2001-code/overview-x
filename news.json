@@ -1,5 +1,5 @@
 {
- "updated": 1794862690,
+ "updated": 1794869841,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -22,6 +22,23 @@
     {
      "name": "CryptoSlate",
      "link": "https://cryptoslate.com/jensen-huang-has-just-14-chance-of-nvidia-return-this-year-despite-trump-backing/"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "German lawmakers back crypto freezes outside criminal cases",
+   "teaser": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+   "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794852900,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000"
     }
    ],
    "coins": []
@@ -70,38 +87,26 @@
    ]
   },
   {
-   "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-   "teaser": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
-   "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
-   "t": 1794826152,
+   "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
+   "teaser": "Strategy and Strive might be the only buyers left in BTC, and each — constrained by weak stock prices — made only modest purchases last week.",
+   "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+   "t": 1794821658,
    "sources": [
     {
      "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk"
+     "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
     },
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia"
     }
    ],
-   "coins": []
-  },
-  {
-   "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-   "teaser": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-   "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-   "t": 1794819050,
-   "sources": [
+   "coins": [
     {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "sym": "BTC",
+     "id": "bitcoin"
     }
-   ],
-   "coins": []
+   ]
   },
   {
    "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
@@ -152,6 +157,28 @@
     {
      "sym": "ETH",
      "id": "ethereum"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+   "teaser": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
+   "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+   "t": 1794815475,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   }
