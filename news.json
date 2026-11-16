@@ -1,5 +1,5 @@
 {
- "updated": 1794782916,
+ "updated": 1794792855,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+   "teaser": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+   "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794783059,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
    "teaser": "Darkfost’s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed. Read the full story on CryptoSlate Understand the …",
