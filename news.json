@@ -1,5 +1,5 @@
 {
- "updated": 1794849786,
+ "updated": 1794855944,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -68,28 +68,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000",
-   "teaser": "Bitcoin Magazine Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 Bitcoin price traded near $64,000 on Monday morning after plunging to $62,000 over the weekend, as Nasdaq futures …",
-   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech",
-   "t": 1794820206,
-   "sources": [
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-crashes-near-62000-over-weekend-as-crypto-liquidations-topped-1-8-billion/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   },
   {
    "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
@@ -173,6 +151,10 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech"
     }
    ],
    "coins": [
