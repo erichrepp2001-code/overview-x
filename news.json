@@ -1,5 +1,5 @@
 {
- "updated": 1794798378,
+ "updated": 1794807520,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+   "teaser": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+   "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+   "t": 1794805277,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
    "teaser": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
@@ -36,24 +54,6 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
-   "teaser": "Darkfost’s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed. Read the full story on CryptoSlate Understand the …",
-   "link": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
-   "t": 1794756958,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/"
     }
    ],
    "coins": [
