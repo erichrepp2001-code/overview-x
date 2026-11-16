@@ -1,5 +1,5 @@
 {
- "updated": 1794828721,
+ "updated": 1794842150,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,20 +10,63 @@
  ],
  "items": [
   {
-   "title": "Solana’s stablecoin market shrinks $919 million as USDC grows",
-   "teaser": "USDC's 6.32% 30-day gain cushions Solana's aggregate contraction as USDT and other large stablecoins decline. Read the full story on CryptoSlate Understand the crypto stories that matter and what to …",
-   "link": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows/",
-   "t": 1794827410,
+   "title": "Solana drops ‘beta’ label after more than six years",
+   "teaser": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
+   "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+   "t": 1794832235,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows/"
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
     }
    ],
    "coins": [
     {
      "sym": "SOL",
      "id": "solana"
+    }
+   ]
+  },
+  {
+   "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+   "teaser": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
+   "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+   "t": 1794826152,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000",
+   "teaser": "Bitcoin Magazine Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 Bitcoin price traded near $64,000 on Monday morning after plunging to $62,000 over the weekend, as Nasdaq futures …",
+   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech",
+   "t": 1794820206,
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoin-crashes-near-62000-over-weekend-as-crypto-liquidations-topped-1-8-billion/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
@@ -85,24 +128,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-   "teaser": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-   "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-   "t": 1794711057,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
     }
    ]
   }
