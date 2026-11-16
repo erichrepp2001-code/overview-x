@@ -1,5 +1,5 @@
 {
- "updated": 1794855944,
+ "updated": 1794862690,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+   "teaser": "Trump would welcome Nvidia’s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang’s comeback.",
+   "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
+   "t": 1794855902,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/jensen-huang-has-just-14-chance-of-nvidia-return-this-year-despite-trump-backing/"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
    "teaser": "The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account.",
@@ -135,32 +152,6 @@
     {
      "sym": "ETH",
      "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-   "teaser": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
-   "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-   "t": 1794738197,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   }
