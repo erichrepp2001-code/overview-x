@@ -1,5 +1,5 @@
 {
- "updated": 1794842150,
+ "updated": 1794849786,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
+   "teaser": "The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+   "t": 1794842651,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Solana drops ‘beta’ label after more than six years",
    "teaser": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
@@ -22,6 +39,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years"
     }
    ],
    "coins": [
@@ -86,6 +107,36 @@
     }
    ],
    "coins": []
+  },
+  {
+   "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+   "teaser": "Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged.",
+   "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794817659,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    },
+    {
+     "sym": "SOL",
+     "id": "solana"
+    }
+   ]
   },
   {
    "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
