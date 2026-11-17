@@ -1,5 +1,5 @@
 {
- "updated": 1794913919,
+ "updated": 1794921660,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+   "teaser": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
+   "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+   "t": 1794906063,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "SOL",
+     "id": "solana"
+    }
+   ]
+  },
   {
    "title": "XRP volume surges 99% to $62M, yet small sellers lose out",
    "teaser": "In a static XRP-to-RLUSD model, the 100,000-XRP shortfall narrowed while smaller sales worsened and all three tested sizes returned fewer RLUSD. Read the full story on CryptoSlate Understand the …",
@@ -106,6 +128,28 @@
    "coins": []
   },
   {
+   "title": "Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings",
+   "teaser": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures rose modestly following yesterday's rout.",
+   "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+   "t": 1794864036,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
    "teaser": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
    "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
@@ -168,58 +212,6 @@
     }
    ],
    "coins": [
-    {
-     "sym": "SOL",
-     "id": "solana"
-    }
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
-   "teaser": "Strategy and Strive might be the only buyers left in BTC, and each — constrained by weak stock prices — made only modest purchases last week.",
-   "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-   "t": 1794821658,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-   "teaser": "Harvard’s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged.",
-   "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794817659,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
     {
      "sym": "SOL",
      "id": "solana"
