@@ -1,5 +1,5 @@
 {
- "updated": 1794900608,
+ "updated": 1794906799,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP volume surges 99% to $62M, yet small sellers lose out",
+   "teaser": "In a static XRP-to-RLUSD model, the 100,000-XRP shortfall narrowed while smaller sales worsened and all three tested sizes returned fewer RLUSD. Read the full story on CryptoSlate Understand the …",
+   "link": "https://cryptoslate.com/xrp-volume-surges-99-to-62m-yet-small-sellers-lose-out/",
+   "t": 1794903603,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrp-volume-surges-99-to-62m-yet-small-sellers-lose-out/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
    "teaser": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
