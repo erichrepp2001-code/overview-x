@@ -1,5 +1,5 @@
 {
- "updated": 1794942765,
+ "updated": 1794949215,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,50 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+   "teaser": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
+   "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+   "t": 1794920576,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
+  {
+   "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+   "teaser": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.",
+   "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794907649,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
   {
    "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
    "teaser": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
@@ -36,22 +80,21 @@
    ]
   },
   {
-   "title": "XRP volume surges 99% to $62M, yet small sellers lose out",
-   "teaser": "In a static XRP-to-RLUSD model, the 100,000-XRP shortfall narrowed while smaller sales worsened and all three tested sizes returned fewer RLUSD. Read the full story on CryptoSlate Understand the …",
-   "link": "https://cryptoslate.com/xrp-volume-surges-99-to-62m-yet-small-sellers-lose-out/",
-   "t": 1794903603,
+   "title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+   "teaser": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
+   "link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+   "t": 1794897302,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/xrp-volume-surges-99-to-62m-yet-small-sellers-lose-out/"
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"
     }
    ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
+   "coins": []
   },
   {
    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
@@ -156,49 +199,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
-   "teaser": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.",
-   "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
-   "t": 1794865465,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-   "teaser": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-   "t": 1794861037,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
   }
  ]
 }
