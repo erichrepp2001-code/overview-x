@@ -1,5 +1,5 @@
 {
- "updated": 1794935679,
+ "updated": 1794942765,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -197,28 +197,6 @@
     {
      "sym": "ETH",
      "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "Solana drops ‘beta’ label after more than six years",
-   "teaser": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
-   "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-   "t": 1794834196,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "SOL",
-     "id": "solana"
     }
    ]
   }
