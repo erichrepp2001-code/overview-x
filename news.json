@@ -1,5 +1,5 @@
 {
- "updated": 1794869841,
+ "updated": 1794878566,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -52,6 +52,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Bitcoin Magazine",
