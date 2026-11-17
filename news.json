@@ -1,5 +1,5 @@
 {
- "updated": 1794927713,
+ "updated": 1794935679,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -50,6 +50,28 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+   "teaser": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+   "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+   "t": 1794893843,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-etf-holdings"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
@@ -127,31 +149,30 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
     }
    ],
    "coins": []
   },
   {
-   "title": "Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings",
-   "teaser": "The Nasdaq and S&P 500 were little changed in early trading on Tuesday following Monday's rout.",
-   "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-   "t": 1794864036,
+   "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+   "teaser": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.",
+   "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+   "t": 1794865465,
    "sources": [
     {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524"
     },
     {
      "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia"
+     "link": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders"
     }
    ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
+   "coins": []
   },
   {
    "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
@@ -178,23 +199,6 @@
      "id": "ethereum"
     }
    ]
-  },
-  {
-   "title": "German lawmakers back crypto freezes outside criminal cases",
-   "teaser": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
-   "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794852900,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Solana drops ‘beta’ label after more than six years",
