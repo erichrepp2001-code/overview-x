@@ -1,5 +1,5 @@
 {
- "updated": 1794892094,
+ "updated": 1794900608,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -50,18 +50,18 @@
    ]
   },
   {
-   "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
-   "teaser": "Trump would welcome Nvidia’s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang’s comeback.",
-   "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
-   "t": 1794855902,
+   "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+   "teaser": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+   "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+   "t": 1794865864,
    "sources": [
     {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia"
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid"
     },
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/jensen-huang-has-just-14-chance-of-nvidia-return-this-year-despite-trump-backing/"
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
