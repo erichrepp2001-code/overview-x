@@ -1,5 +1,5 @@
 {
- "updated": 1794949215,
+ "updated": 1794956522,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,41 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it",
+   "teaser": "A November 17 snapshot shows concentrated USDf inventory alongside $22,415 in tracked DeFi TVL, leaving broad liquidity and XRP buying demand unproven. Read the full story on CryptoSlate Understand …",
+   "link": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/",
+   "t": 1794955231,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+   "teaser": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
+   "link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+   "t": 1794942960,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
    "teaser": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
@@ -135,23 +170,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
-   "teaser": "An Optimizely signup flaw let an attacker plant address-swapping code on websites including HSBC, the BBC and Ledger. The total stolen remains unknown, and investigators have not linked the attack to …",
-   "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-   "t": 1794877325,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Trezor customer data exposed in 3rd partner breach this year",
