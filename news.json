@@ -1,5 +1,5 @@
 {
- "updated": 1794921660,
+ "updated": 1794927713,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -18,6 +18,10 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
@@ -128,8 +132,8 @@
    "coins": []
   },
   {
-   "title": "Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings",
-   "teaser": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures rose modestly following yesterday's rout.",
+   "title": "Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings",
+   "teaser": "The Nasdaq and S&P 500 were little changed in early trading on Tuesday following Monday's rout.",
    "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
    "t": 1794864036,
    "sources": [
@@ -176,22 +180,18 @@
    ]
   },
   {
-   "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
-   "teaser": "The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
-   "t": 1794842651,
+   "title": "German lawmakers back crypto freezes outside criminal cases",
+   "teaser": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+   "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794852900,
    "sources": [
     {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376"
-    },
-    {
      "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master"
+     "link": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000"
     }
    ],
    "coins": []
