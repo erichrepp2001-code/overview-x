@@ -1,5 +1,5 @@
 {
- "updated": 1794906799,
+ "updated": 1794913919,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -46,6 +46,23 @@
    ]
   },
   {
+   "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+   "teaser": "An Optimizely signup flaw let an attacker plant address-swapping code on websites including HSBC, the BBC and Ledger. The total stolen remains unknown, and investigators have not linked the attack to …",
+   "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+   "t": 1794877325,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "Trezor customer data exposed in 3rd partner breach this year",
    "teaser": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
    "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -78,11 +95,41 @@
      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid"
     },
     {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
+    },
+    {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
+  },
+  {
+   "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+   "teaser": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+   "t": 1794861037,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
   },
   {
    "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
@@ -109,15 +156,11 @@
    "title": "Solana drops ‘beta’ label after more than six years",
    "teaser": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged.",
    "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-   "t": 1794832235,
+   "t": 1794834196,
    "sources": [
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
     },
     {
      "name": "Decrypt",
@@ -180,50 +223,6 @@
     {
      "sym": "SOL",
      "id": "solana"
-    }
-   ]
-  },
-  {
-   "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-   "teaser": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
-   "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-   "t": 1794817083,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-   "teaser": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
-   "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-   "t": 1794815475,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
     }
    ]
   }
