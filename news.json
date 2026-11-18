@@ -1,5 +1,5 @@
 {
- "updated": 1795035824,
+ "updated": 1795042803,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -118,24 +118,6 @@
    ]
   },
   {
-   "title": "Ripple’s 126.8 million XRP valued at $0 in Evernorth filing as $505 million write-down emerges",
-   "teaser": "A November 17 amendment records Ripple's 2025 contribution of 126.8 million XRP at zero historical carrying value. Read the full story on CryptoSlate Understand the crypto stories that matter and …",
-   "link": "https://cryptoslate.com/ripples-126-8-million-xrp-valued-at-0-in-evernorth-filing-as-505-million-write-down-emerges/",
-   "t": 1795000204,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/ripples-126-8-million-xrp-valued-at-0-in-evernorth-filing-as-505-million-write-down-emerges/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
    "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
    "teaser": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
    "link": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
@@ -158,7 +140,7 @@
    ]
   },
   {
-   "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+   "title": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
    "teaser": "The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.",
    "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
    "t": 1794986868,
@@ -198,22 +180,22 @@
    ]
   },
   {
-   "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
-   "teaser": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
-   "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
-   "t": 1794950750,
+   "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+   "teaser": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+   "link": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+   "t": 1794970071,
    "sources": [
     {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
     },
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam"
     },
     {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit"
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/coinbase-ai-blocks-4-7-million-scam-but-a-simple-lie-exposes-its-weakness/"
     }
    ],
    "coins": []
