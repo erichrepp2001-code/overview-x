@@ -1,5 +1,5 @@
 {
- "updated": 1795000448,
+ "updated": 1795008356,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -28,8 +28,8 @@
    ]
   },
   {
-   "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-   "teaser": "XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about what Treasuries do.",
+   "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
+   "teaser": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.",
    "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
    "t": 1794986868,
    "sources": [
@@ -82,6 +82,10 @@
      "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
     },
     {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
      "name": "Decrypt",
      "link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit"
     }
@@ -127,6 +131,28 @@
    "coins": []
   },
   {
+   "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+   "teaser": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
+   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+   "t": 1794933583,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
    "teaser": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
    "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
@@ -147,6 +173,23 @@
      "id": "ethereum"
     }
    ]
+  },
+  {
+   "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+   "teaser": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement.",
+   "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1794909272,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
@@ -175,15 +218,11 @@
    ]
   },
   {
-   "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-   "teaser": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
-   "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+   "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+   "teaser": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features.",
+   "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "t": 1794906063,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
-    },
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -203,40 +242,6 @@
      "id": "solana"
     }
    ]
-  },
-  {
-   "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
-   "teaser": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.",
-   "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794897319,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Trezor customer data exposed in 3rd partner breach this year",
-   "teaser": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
-   "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794887182,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders"
-    }
-   ],
-   "coins": []
   }
  ]
 }
