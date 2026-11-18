@@ -1,5 +1,5 @@
 {
- "updated": 1795008356,
+ "updated": 1795014480,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -28,7 +28,7 @@
    ]
   },
   {
-   "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
+   "title": "Live updates: Bitcoin slides towards $63,000 as U.S. stocks fall and Nvidia erases gains",
    "teaser": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.",
    "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
    "t": 1794986868,
@@ -230,10 +230,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/"
     }
    ],
    "coins": [
