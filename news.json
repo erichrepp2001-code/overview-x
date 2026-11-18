@@ -1,5 +1,5 @@
 {
- "updated": 1794970808,
+ "updated": 1794978724,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+   "teaser": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for …",
+   "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+   "t": 1794976117,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it",
    "teaser": "A November 17 snapshot shows concentrated USDf inventory alongside $22,415 in tracked DeFi TVL, leaving broad liquidity and XRP buying demand unproven. Read the full story on CryptoSlate Understand …",
@@ -40,6 +58,23 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+   "teaser": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
+   "link": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+   "t": 1794948963,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
     }
    ],
    "coins": []
@@ -122,6 +157,10 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/"
     }
    ],
    "coins": [
@@ -130,6 +169,27 @@
      "id": "solana"
     }
    ]
+  },
+  {
+   "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+   "teaser": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+   "t": 1794897319,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
@@ -170,53 +230,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "Trezor customer data exposed in 3rd partner breach this year",
-   "teaser": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
-   "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1794867483,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-   "teaser": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
-   "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-   "t": 1794865864,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
-    }
-   ],
-   "coins": []
   }
  ]
 }
