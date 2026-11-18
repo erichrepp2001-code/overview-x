@@ -1,5 +1,5 @@
 {
- "updated": 1794956522,
+ "updated": 1794965259,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -26,6 +26,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+   "teaser": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
+   "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+   "t": 1794950750,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
@@ -113,23 +130,6 @@
      "id": "solana"
     }
    ]
-  },
-  {
-   "title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
-   "teaser": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
-   "link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
-   "t": 1794897302,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
