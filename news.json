@@ -1,5 +1,5 @@
 {
- "updated": 1795028814,
+ "updated": 1795035824,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,44 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+   "teaser": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+   "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+   "t": 1795027650,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
+   "teaser": "The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets.",
+   "link": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
+   "t": 1795017102,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
    "teaser": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.",
@@ -28,6 +66,32 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+   "teaser": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.",
+   "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795009357,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    },
+    {
+     "sym": "SOL",
+     "id": "solana"
     }
    ]
   },
@@ -94,6 +158,28 @@
    ]
   },
   {
+   "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+   "teaser": "The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.",
+   "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+   "t": 1794986868,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/k33-bitcoin-below-70000-gift"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
    "teaser": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for …",
    "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
@@ -110,23 +196,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
-   "teaser": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
-   "link": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
-   "t": 1794970071,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
@@ -148,71 +217,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
-   "teaser": "The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.",
-   "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-   "t": 1794949326,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-near-64000-strategy"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
-   "teaser": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
-   "link": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
-   "t": 1794948963,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-   "teaser": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
-   "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-   "t": 1794933583,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
