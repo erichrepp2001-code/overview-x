@@ -1,5 +1,5 @@
 {
- "updated": 1795073350,
+ "updated": 1795079815,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
+   "teaser": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
+   "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+   "t": 1795076735,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
    "teaser": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October.",
@@ -175,28 +192,6 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
-   "teaser": "The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.",
-   "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-   "t": 1794986868,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/k33-bitcoin-below-70000-gift"
     }
    ],
    "coins": [
