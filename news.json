@@ -1,5 +1,5 @@
 {
- "updated": 1795115419,
+ "updated": 1795122107,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -28,15 +28,11 @@
    ]
   },
   {
-   "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-   "teaser": "At that opening price, the company would be valued at more than $2 trillion",
-   "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+   "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+   "teaser": "The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.",
+   "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "t": 1795104471,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price"
-    },
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -47,28 +43,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-   "teaser": "Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention now turning to Anthrophic's $100 billion IPO.",
-   "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
-   "t": 1795086043,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-faces-fresh-60000-threat-as-fed-minutes-reveal-overwhelming-support-for-more-rate-hikes/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   },
   {
    "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
