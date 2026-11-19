@@ -1,5 +1,5 @@
 {
- "updated": 1795057206,
+ "updated": 1795065366,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -24,6 +24,28 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "teaser": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with …",
+   "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "t": 1795027890,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ONDO",
+     "id": "ondo-finance"
     }
    ]
   },
@@ -69,23 +91,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
-   "teaser": "The derivatives protocol’s Omni platform has processed over $475 billion in volume as it expands into traditional markets.",
-   "link": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
-   "t": 1795017102,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
