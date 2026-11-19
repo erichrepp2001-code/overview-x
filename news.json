@@ -1,5 +1,5 @@
 {
- "updated": 1795100828,
+ "updated": 1795108594,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,27 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+   "teaser": "At that opening price, the company would be valued at more than $2 trillion",
+   "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+   "t": 1795104471,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
    "teaser": "Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention now turning to Anthrophic's $100 billion IPO.",
@@ -22,28 +43,6 @@
     {
      "name": "CryptoSlate",
      "link": "https://cryptoslate.com/bitcoin-faces-fresh-60000-threat-as-fed-minutes-reveal-overwhelming-support-for-more-rate-hikes/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-   "teaser": "The Nasdaq was higher by about 2% early Thursday. One analyst said IPO money could flow back into crypto.",
-   "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-   "t": 1795085306,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-rebounds-64000-anthropic"
     }
    ],
    "coins": [
@@ -141,6 +140,49 @@
    ]
   },
   {
+   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+   "teaser": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
+   "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+   "t": 1795040162,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/ledger-tampered-wallets-berlin-dubai"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+   "teaser": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+   "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+   "t": 1795030825,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
    "teaser": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with …",
    "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
@@ -159,57 +201,6 @@
     {
      "sym": "ONDO",
      "id": "ondo-finance"
-    }
-   ]
-  },
-  {
-   "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
-   "teaser": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
-   "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
-   "t": 1795027650,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-   "teaser": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting.",
-   "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795009357,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
-    {
-     "sym": "SOL",
-     "id": "solana"
     }
    ]
   }
