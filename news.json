@@ -1,5 +1,5 @@
 {
- "updated": 1795079815,
+ "updated": 1795086591,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,11 +10,37 @@
  ],
  "items": [
   {
-   "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
-   "teaser": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
-   "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+   "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+   "teaser": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized …",
+   "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+   "t": 1795083732,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "SOL",
+     "id": "solana"
+    },
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+   "teaser": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027.",
+   "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
    "t": 1795076735,
    "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc"
+    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562"
@@ -198,24 +224,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-   "teaser": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for …",
-   "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-   "t": 1794976117,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
     }
    ]
   }
