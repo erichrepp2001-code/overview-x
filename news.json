@@ -1,5 +1,5 @@
 {
- "updated": 1795108594,
+ "updated": 1795115419,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
+   "teaser": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+   "t": 1795114050,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
    "teaser": "At that opening price, the company would be valued at more than $2 trillion",
