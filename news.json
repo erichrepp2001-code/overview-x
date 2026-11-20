@@ -1,5 +1,5 @@
 {
- "updated": 1795129060,
+ "updated": 1795137520,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -122,6 +122,10 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/"
     }
    ],
    "coins": [
