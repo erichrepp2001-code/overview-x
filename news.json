@@ -1,5 +1,5 @@
 {
- "updated": 1795151524,
+ "updated": 1795159728,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "A $2.8 million XRP yield trade is about to mature, but the next two markets are 44 times smaller",
+   "teaser": "The December and March pools have far less liquidity, and the path back to native XRP can involve a separate withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter …",
+   "link": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller/",
+   "t": 1795156245,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
    "teaser": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
@@ -177,28 +195,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-   "teaser": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with …",
-   "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-   "t": 1795027890,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ONDO",
-     "id": "ondo-finance"
-    }
-   ]
   }
  ]
 }
