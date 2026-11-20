@@ -1,5 +1,5 @@
 {
- "updated": 1795201913,
+ "updated": 1795208373,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -27,11 +27,15 @@
    "coins": []
   },
   {
-   "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
-   "teaser": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record …",
-   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
-   "t": 1795190390,
+   "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
+   "teaser": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
+   "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+   "t": 1795181733,
    "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
+    },
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000"
