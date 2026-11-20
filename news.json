@@ -1,5 +1,5 @@
 {
- "updated": 1795194490,
+ "updated": 1795201913,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,45 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+   "teaser": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
+   "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+   "t": 1795191082,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+   "teaser": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record …",
+   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+   "t": 1795190390,
+   "sources": [
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitcoin-crashes-to-59000-as-anthropic-falls-25-from-yesterdays-ipo-day-high/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
   {
    "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
    "teaser": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter.",
@@ -64,6 +103,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure"
     }
    ],
    "coins": [
@@ -98,23 +141,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-   "teaser": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
-   "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795124700,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
@@ -174,28 +200,6 @@
     {
      "sym": "XRP",
      "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-   "teaser": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
-   "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-   "t": 1795112449,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     }
    ]
   }
