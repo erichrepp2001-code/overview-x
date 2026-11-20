@@ -1,5 +1,5 @@
 {
- "updated": 1795187153,
+ "updated": 1795194490,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -39,6 +39,14 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
     }
    ],
    "coins": []
@@ -70,24 +78,6 @@
    ]
   },
   {
-   "title": "A $2.8 million XRP yield trade is about to mature, but the next two markets are 44 times smaller",
-   "teaser": "The December and March pools have far less liquidity, and the path back to native XRP can involve a separate withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter …",
-   "link": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller/",
-   "t": 1795156245,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
    "title": "Bitcoin drops for third straight day as Asian tech shares slide",
    "teaser": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
    "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
@@ -110,8 +100,8 @@
    ]
   },
   {
-   "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
-   "teaser": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.",
+   "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+   "teaser": "The SEC says the operators showed investors fake certificates and pointed them to filings on the agency’s website as proof of regulatory approval.",
    "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "t": 1795124700,
    "sources": [
@@ -146,6 +136,28 @@
     }
    ],
    "coins": []
+  },
+  {
+   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+   "teaser": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
+   "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+   "t": 1795121162,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   },
   {
    "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
@@ -186,23 +198,6 @@
      "id": "ethereum"
     }
    ]
-  },
-  {
-   "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-   "teaser": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
-   "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-   "t": 1795111455,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106"
-    }
-   ],
-   "coins": []
   }
  ]
 }
