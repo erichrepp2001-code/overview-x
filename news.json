@@ -1,5 +1,5 @@
 {
- "updated": 1795166035,
+ "updated": 1795173132,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -45,6 +45,23 @@
    "coins": []
   },
   {
+   "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
+   "teaser": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
+   "link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
+   "t": 1795122102,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
    "teaser": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
    "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
@@ -85,43 +102,21 @@
    ]
   },
   {
-   "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
-   "teaser": "The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.",
-   "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795104471,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-   "teaser": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized …",
-   "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-   "t": 1795083732,
+   "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+   "teaser": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
+   "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+   "t": 1795111455,
    "sources": [
     {
      "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "SOL",
-     "id": "solana"
+     "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading"
     },
     {
-     "sym": "XRP",
-     "id": "ripple"
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106"
     }
-   ]
+   ],
+   "coins": []
   },
   {
    "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
