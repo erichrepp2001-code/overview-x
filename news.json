@@ -1,5 +1,5 @@
 {
- "updated": 1795181098,
+ "updated": 1795187153,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -22,6 +22,23 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+   "teaser": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred.",
+   "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+   "t": 1795169365,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200"
     }
    ],
    "coins": []
@@ -186,28 +203,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-   "teaser": "Your day-ahead look for Nov. 19, 2026",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-   "t": 1795074956,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
