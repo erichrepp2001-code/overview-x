@@ -1,5 +1,5 @@
 {
- "updated": 1795237469,
+ "updated": 1795245687,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "teaser": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+   "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+   "t": 1795240759,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
    "teaser": "At the base rate, a steady 10,000 RLUSD balance would have earned 12.72 XRP in the final week, while Binance’s notices leave buying and retention unresolved. Read the full story on CryptoSlate …",
@@ -40,6 +58,23 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+    }
+   ],
+   "coins": []
+  },
+  {
+   "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+   "teaser": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
+   "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+   "t": 1795185510,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": []
@@ -139,6 +174,24 @@
    ]
   },
   {
+   "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+   "teaser": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.",
+   "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+   "t": 1795153200,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
    "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
    "teaser": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
    "link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
@@ -178,46 +231,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-   "teaser": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-   "t": 1795114050,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-   "teaser": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
-   "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-   "t": 1795112449,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     }
    ]
   }
