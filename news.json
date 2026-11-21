@@ -1,5 +1,5 @@
 {
- "updated": 1795273124,
+ "updated": 1795280162,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,6 +10,23 @@
  ],
  "items": [
   {
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "teaser": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+   "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "t": 1795274654,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
+    },
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
    "teaser": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
    "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
@@ -18,24 +35,6 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
-   "teaser": "At the base rate, a steady 10,000 RLUSD balance would have earned 12.72 XRP in the final week, while Binance’s notices leave buying and retention unresolved. Read the full story on CryptoSlate …",
-   "link": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/",
-   "t": 1795218012,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/"
     }
    ],
    "coins": [
