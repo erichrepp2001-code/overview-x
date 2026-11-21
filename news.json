@@ -1,5 +1,5 @@
 {
- "updated": 1795245687,
+ "updated": 1795251432,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -211,28 +211,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-   "teaser": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
-   "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-   "t": 1795121162,
-   "sources": [
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
