@@ -1,5 +1,5 @@
 {
- "updated": 1795280162,
+ "updated": 1795287494,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -186,24 +186,6 @@
     {
      "sym": "SOL",
      "id": "solana"
-    }
-   ]
-  },
-  {
-   "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-   "teaser": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.",
-   "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-   "t": 1795153200,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
     }
    ]
   }
