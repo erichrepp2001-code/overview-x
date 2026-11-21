@@ -1,5 +1,5 @@
 {
- "updated": 1795229803,
+ "updated": 1795237469,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -57,10 +57,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-crashes-to-59000-as-anthropic-falls-25-from-yesterdays-ipo-day-high/"
     }
    ],
    "coins": [
