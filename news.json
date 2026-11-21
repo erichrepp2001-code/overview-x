@@ -1,5 +1,5 @@
 {
- "updated": 1795215414,
+ "updated": 1795224151,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
+   "teaser": "At the base rate, a steady 10,000 RLUSD balance would have earned 12.72 XRP in the final week, while Binance’s notices leave buying and retention unresolved. Read the full story on CryptoSlate …",
+   "link": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/",
+   "t": 1795218012,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
    "teaser": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
