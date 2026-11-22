@@ -1,5 +1,5 @@
 {
- "updated": 1795359442,
+ "updated": 1795366581,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
+   "teaser": "The emergency pause also stopped deposits, withdrawals and quotes, and the swap and liquidity-provider apps still showed maintenance Saturday evening UTC. Read the full story on CryptoSlate …",
+   "link": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
+   "t": 1795363555,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
   {
    "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
    "teaser": "During Sunday’s move above $61,000, Binance perpetuals posted nearly ten times as much net buying as the exchange’s spot market. Read the full story on CryptoSlate Understand the crypto stories that …",
@@ -24,28 +42,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
-   "teaser": "Two trading interruptions hit global Bitcoin and Ether perpetuals that share Deribit execution, while Coinbase said its US derivatives were unaffected. Read the full story on CryptoSlate Understand …",
-   "link": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
-   "t": 1795356044,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     }
    ]
   },
