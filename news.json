@@ -1,5 +1,5 @@
 {
- "updated": 1795337831,
+ "updated": 1795344923,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,32 @@
  ],
  "items": [
   {
-   "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
-   "teaser": "From Nov. 22, Russian exchanges can begin trading Bitcoin once the central bank approves the rules, but customers still can't use it to pay for anything. Moscow Exchange plans a Dec. 1 pilot through …",
-   "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
-   "t": 1795290003,
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "teaser": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+   "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795339986,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower",
+   "teaser": "A drop of 3,889 reported short contracts drove most of the move, and the next CFTC report is due November 30. Read the full story on CryptoSlate Understand the crypto stories that matter and what to …",
+   "link": "https://cryptoslate.com/bitcoin-shorts-collapsed-79-in-five-weeks-then-the-market-turned-lower/",
+   "t": 1795339845,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/"
+     "link": "https://cryptoslate.com/bitcoin-shorts-collapsed-79-in-five-weeks-then-the-market-turned-lower/"
     }
    ],
    "coins": [
@@ -43,24 +61,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-   "teaser": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
-   "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-   "t": 1795283400,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   },
   {
    "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
