@@ -1,5 +1,5 @@
 {
- "updated": 1795373928,
+ "updated": 1795380855,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -42,6 +42,32 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+   "teaser": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
+   "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+   "t": 1795325323,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
     }
    ]
   },
