@@ -1,5 +1,5 @@
 {
- "updated": 1795380855,
+ "updated": 1795388019,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,20 +10,38 @@
  ],
  "items": [
   {
-   "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
-   "teaser": "Firms making markets in spot Bitcoin on qualifying platforms are exempt from principal-dealing permission for that activity. Separate venue rules apply. Read the full story on CryptoSlate Understand …",
-   "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
-   "t": 1795370749,
+   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+   "teaser": "Bitcoin rebounded sharply from its new cycle low, but is $55,110 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
+   "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795387629,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/"
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": [
     {
      "sym": "BTC",
      "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
+   "teaser": "t54 Labs reported 0.36 drops per paid request in its October beta, and two November checks show a merchant receiving RLUSD. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
+   "t": 1795381516,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
     }
    ]
   },
