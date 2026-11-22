@@ -1,5 +1,5 @@
 {
- "updated": 1795352753,
+ "updated": 1795359442,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,14 @@
  ],
  "items": [
   {
-   "title": "Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight",
-   "teaser": "Bitcoin fell below $60,000 on Friday for the first time since July, with US spot Bitcoin funds recording withdrawals and short-term Treasury bills offering investors more than 4% a year. That creates …",
-   "link": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
-   "t": 1795348804,
+   "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
+   "teaser": "During Sunday’s move above $61,000, Binance perpetuals posted nearly ten times as much net buying as the exchange’s spot market. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/",
+   "t": 1795357834,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/"
+     "link": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/"
     }
    ],
    "coins": [
@@ -28,20 +28,24 @@
    ]
   },
   {
-   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-   "teaser": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
-   "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795339986,
+   "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
+   "teaser": "Two trading interruptions hit global Bitcoin and Ether perpetuals that share Deribit execution, while Coinbase said its US derivatives were unaffected. Read the full story on CryptoSlate Understand …",
+   "link": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
+   "t": 1795356044,
    "sources": [
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/"
     }
    ],
    "coins": [
     {
      "sym": "BTC",
      "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
     }
    ]
   },
