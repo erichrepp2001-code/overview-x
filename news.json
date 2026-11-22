@@ -1,5 +1,5 @@
 {
- "updated": 1795332142,
+ "updated": 1795337831,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -26,6 +26,23 @@
      "id": "bitcoin"
     }
    ]
+  },
+  {
+   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+   "teaser": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+   "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+   "t": 1795287074,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
@@ -61,24 +78,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
-   "teaser": "Bitcoin miner Bitfarms thought the machines it brought into Washington state in 2021 had been made in Malaysia. Its supplier said so, and the company provided US Customs officials with documents …",
-   "link": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/",
-   "t": 1795274409,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   },
   {
    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
