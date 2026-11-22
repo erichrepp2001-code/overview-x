@@ -1,5 +1,5 @@
 {
- "updated": 1795366581,
+ "updated": 1795373928,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,38 +10,38 @@
  ],
  "items": [
   {
-   "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
-   "teaser": "The emergency pause also stopped deposits, withdrawals and quotes, and the swap and liquidity-provider apps still showed maintenance Saturday evening UTC. Read the full story on CryptoSlate …",
-   "link": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
-   "t": 1795363555,
+   "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
+   "teaser": "Firms making markets in spot Bitcoin on qualifying platforms are exempt from principal-dealing permission for that activity. Separate venue rules apply. Read the full story on CryptoSlate Understand …",
+   "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
+   "t": 1795370749,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
-   "teaser": "During Sunday’s move above $61,000, Binance perpetuals posted nearly ten times as much net buying as the exchange’s spot market. Read the full story on CryptoSlate Understand the crypto stories that …",
-   "link": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/",
-   "t": 1795357834,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/"
+     "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/"
     }
    ],
    "coins": [
     {
      "sym": "BTC",
      "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
+   "teaser": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play. Read the full story on CryptoSlate Understand the crypto stories that matter and …",
+   "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
+   "t": 1795367107,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
     }
    ]
   },
@@ -78,24 +78,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-   "teaser": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
-   "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-   "t": 1795240759,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
   }
  ]
 }
