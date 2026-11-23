@@ -1,5 +1,5 @@
 {
- "updated": 1795426483,
+ "updated": 1795432602,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,14 @@
  ],
  "items": [
   {
-   "title": "Bitcoin’s smallest miners face a decade-old payout problem that may require middlemen",
-   "teaser": "A historical P2Pool payout floor shows the problem that P2Poolv2’s proposed share market aims to address. Read the full story on CryptoSlate Understand the crypto stories that matter and what to …",
-   "link": "https://cryptoslate.com/bitcoins-smallest-miners-face-a-decade-old-payout-problem-that-may-require-middlemen/",
-   "t": 1795424452,
+   "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
+   "teaser": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
+   "link": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+   "t": 1795432462,
    "sources": [
     {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoins-smallest-miners-face-a-decade-old-payout-problem-that-may-require-middlemen/"
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low"
     }
    ],
    "coins": [
