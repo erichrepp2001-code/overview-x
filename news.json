@@ -1,5 +1,5 @@
 {
- "updated": 1795453950,
+ "updated": 1795461197,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -82,6 +82,32 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/american-bitcoin-150-million-credit"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
+   "teaser": "A small-scale miner won a Bitcoin block reward despite operating a tiny fraction of the network's hashpower.",
+   "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
+   "t": 1795441022,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward"
     }
    ],
    "coins": [
@@ -185,28 +211,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-   "teaser": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight.",
-   "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-   "t": 1795339986,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
