@@ -1,5 +1,5 @@
 {
- "updated": 1795397160,
+ "updated": 1795403154,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,14 @@
  ],
  "items": [
   {
-   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-   "teaser": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
-   "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795387629,
+   "title": "Repaying a Bitcoin-backed loan on Sui can leave you waiting to withdraw native BTC",
+   "teaser": "Hashi’s separate withdrawal process can delay a Bitcoin payout even after a Fluid borrower has recovered their hBTC collateral. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/",
+   "t": 1795399539,
    "sources": [
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/"
     }
    ],
    "coins": [
