@@ -1,5 +1,5 @@
 {
- "updated": 1795461197,
+ "updated": 1795467613,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -78,10 +78,6 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/american-bitcoin-150-million-credit"
     }
    ],
    "coins": [
@@ -108,28 +104,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million",
-   "teaser": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in over two years.",
-   "link": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
-   "t": 1795439425,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/strategy-mstr-adds-457-bitcoin"
     }
    ],
    "coins": [
@@ -211,6 +185,28 @@
     }
    ],
    "coins": []
+  },
+  {
+   "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+   "teaser": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight.",
+   "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+   "t": 1795339986,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   }
  ]
 }
