@@ -1,5 +1,5 @@
 {
- "updated": 1795447003,
+ "updated": 1795453950,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,11 +10,45 @@
  ],
  "items": [
   {
-   "title": "Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO",
-   "teaser": "Bitcoin Magazine Bitcoin Price Surges Above $64,000 as Nvidia Reinstates CEO The bitcoin price surged to near $63,700 on Monday as Nvidia reinstated Jensen Huang as CEO, sending stocks, crypto …",
-   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-64000-nvidia",
+   "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
+   "teaser": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply.",
+   "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
+   "t": 1795446161,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
+   "teaser": "Ahead of the announcement, Polymarket put the odds of Huang rejoining Nvidia by the end of the year at just 10.5%.",
+   "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
    "t": 1795444398,
    "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return"
+    },
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-64000-nvidia"
@@ -80,6 +114,32 @@
    ]
   },
   {
+   "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+   "teaser": "LendingUSA and Cross River launch bitcoin-secured loans of $10,000 to $250,000 with 30%, 50% or 70% LTV, so borrowers can keep their BTC.",
+   "link": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
+   "t": 1795435502,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/cross-river-bank-bitcoin-backed-loans"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
    "teaser": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
    "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
@@ -102,30 +162,8 @@
    ]
   },
   {
-   "title": "Bitcoin Core Patches Node-Stall Bug Found by Block’s AI Scanner",
-   "teaser": "Bitcoin Magazine Bitcoin Core Patches Node-Stall Bug Found by Block’s AI Scanner Bitcoin Core fixed a medium-severity bug that could freeze a node’s block processing for over a dozen seconds per …",
-   "link": "https://bitcoinmagazine.com/news/bitcoin-core-patches-ai-found-node-bug",
-   "t": 1795410337,
-   "sources": [
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/bitcoin-core-patches-ai-found-node-bug"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoin-core-fixes-a-bug-that-can-stall-nodes-leaving-29-x-users-to-upgrade/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
-   "teaser": "Nasdaq futures rose nearly 7% and neocloud stocks gained as much as 16% after Nvidia’s board voted unanimously to reinstate Huang.",
+   "title": "Nvidia soars as Jensen Huang returns to lead company",
+   "teaser": "The Nasdaq gained more than 6% as Nvidia rose as much as 35%. After a brief surge, crypto returned to a more muted advance.",
    "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
    "t": 1795405040,
    "sources": [
@@ -134,24 +172,19 @@
      "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27"
     },
     {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952"
-    },
-    {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/nvidia-soars-huang-returns-crypto"
     }
    ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
+   "coins": []
   },
   {
    "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
@@ -172,32 +205,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-   "teaser": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
-   "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
-   "t": 1795325323,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
     }
    ]
   }
