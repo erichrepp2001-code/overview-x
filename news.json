@@ -1,5 +1,5 @@
 {
- "updated": 1795403154,
+ "updated": 1795411771,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -10,14 +10,32 @@
  ],
  "items": [
   {
-   "title": "Repaying a Bitcoin-backed loan on Sui can leave you waiting to withdraw native BTC",
-   "teaser": "Hashi’s separate withdrawal process can delay a Bitcoin payout even after a Fluid borrower has recovered their hBTC collateral. Read the full story on CryptoSlate Understand the crypto stories that …",
-   "link": "https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/",
-   "t": 1795399539,
+   "title": "Bitcoin Core fixes a bug that can stall nodes, leaving 29.x users to upgrade",
+   "teaser": "Maintenance updates cover affected 30.x and 31.x releases, and operators on the retired 29.x line need to move to a newer line. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/bitcoin-core-fixes-a-bug-that-can-stall-nodes-leaving-29-x-users-to-upgrade/",
+   "t": 1795410337,
    "sources": [
     {
      "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/"
+     "link": "https://cryptoslate.com/bitcoin-core-fixes-a-bug-that-can-stall-nodes-leaving-29-x-users-to-upgrade/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Bitquery counted 400 fewer BTC in Maple’s disclosed wallets than Maple reported",
+   "teaser": "Bitquery’s Nov. 18 check accounted for 97.6% of the reported Bitcoin and estimated that counted collateral covered about 152% of loans. Read the full story on CryptoSlate Understand the crypto …",
+   "link": "https://cryptoslate.com/bitquery-counted-400-fewer-btc-in-maples-disclosed-wallets-than-maple-reported/",
+   "t": 1795406733,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/bitquery-counted-400-fewer-btc-in-maples-disclosed-wallets-than-maple-reported/"
     }
    ],
    "coins": [
@@ -36,24 +54,6 @@
     {
      "name": "CryptoSlate",
      "link": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
-   "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
-   "teaser": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play. Read the full story on CryptoSlate Understand the crypto stories that matter and …",
-   "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
-   "t": 1795367107,
-   "sources": [
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/"
     }
    ],
    "coins": [
@@ -102,23 +102,6 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-   "teaser": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
-   "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-   "t": 1795274654,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804"
     }
    ],
    "coins": []
