@@ -1,5 +1,5 @@
 {
- "updated": 1795547457,
+ "updated": 1795554294,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -84,6 +84,28 @@
    ]
   },
   {
+   "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+   "teaser": "Ledn's new U.S. custody account lets customers hold bitcoin, gold, stablecoins and dollars, swap with no trading fees and borrow against bitcoin without selling.",
+   "link": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+   "t": 1795528800,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/ledn-launches-us-custody-accounts"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
    "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
    "teaser": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
    "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
@@ -99,28 +121,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-   "teaser": "Your day-ahead look for Nov. 24, 2026",
-   "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-   "t": 1795523788,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   },
   {
    "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
@@ -157,6 +157,10 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing"
     }
    ],
    "coins": [
