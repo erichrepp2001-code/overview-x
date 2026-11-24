@@ -1,5 +1,5 @@
 {
- "updated": 1795511975,
+ "updated": 1795518142,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,28 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+   "teaser": "The firm's DeFi business, Imperium, temporarily pulled out of liquidity pools after generating $3.5 million in Q3 revenue.",
+   "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+   "t": 1795491638,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/btcs-sold-more-ethereum-than-it-has-left-to-repay-43-8-million-in-debt/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
   {
    "title": "XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million market",
    "teaser": "The Ethereum market showed about 1.02 million RLUSD available on Nov. 23, and Sentora’s allocations can affect fresh credit and borrowing rates. Read the full story on CryptoSlate Understand the …",
@@ -58,11 +80,15 @@
    ]
   },
   {
-   "title": "Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles",
-   "teaser": "Analysts said Huang's return was a reflex rally that did not resolve the macro headwinds bitcoin is facing as a risk asset.",
-   "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+   "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+   "teaser": "Nasdaq 100 futures fell about 1% after the index surged on Monday, while the Dollar Index held above 104, its highest level since March 2025.",
+   "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
    "t": 1795451524,
    "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades"
+    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472"
