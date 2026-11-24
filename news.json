@@ -1,5 +1,5 @@
 {
- "updated": 1795474943,
+ "updated": 1795483427,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,54 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million market",
+   "teaser": "The Ethereum market showed about 1.02 million RLUSD available on Nov. 23, and Sentora’s allocations can affect fresh credit and borrowing rates. Read the full story on CryptoSlate Understand the …",
+   "link": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-market/",
+   "t": 1795481430,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-market/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    },
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+   "teaser": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+   "t": 1795477414,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    },
+    {
+     "sym": "ETH",
+     "id": "ethereum"
+    }
+   ]
+  },
   {
    "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
    "teaser": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply.",
