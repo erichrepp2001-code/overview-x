@@ -1,5 +1,5 @@
 {
- "updated": 1795489304,
+ "updated": 1795497541,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -148,28 +148,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/cross-river-bank-bitcoin-backed-loans"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
-   "teaser": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
-   "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
-   "t": 1795412841,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     }
    ],
    "coins": [
