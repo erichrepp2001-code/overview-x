@@ -1,5 +1,5 @@
 {
- "updated": 1795526869,
+ "updated": 1795533247,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,63 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+   "teaser": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
+   "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+   "t": 1795528802,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+   "teaser": "Your day-ahead look for Nov. 24, 2026",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+   "t": 1795523788,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
+   "teaser": "The draft will now head to the legislature, where lawmakers will debate it and potentially merge it with competing proposals.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
+   "t": 1795519524,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
    "teaser": "Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer.",
@@ -165,57 +222,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-   "teaser": "A small-scale miner won a Bitcoin block reward despite operating a tiny fraction of the network's hashpower.",
-   "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
-   "t": 1795441022,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Nvidia soars as Jensen Huang returns to lead company",
-   "teaser": "The Nasdaq gained more than 6% as Nvidia rose as much as 35%. After a brief surge, crypto returned to a more muted advance.",
-   "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
-   "t": 1795405040,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/markets/nvidia-soars-huang-returns-crypto"
-    }
-   ],
-   "coins": []
   }
  ]
 }
