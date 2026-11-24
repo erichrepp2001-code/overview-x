@@ -1,5 +1,5 @@
 {
- "updated": 1795497541,
+ "updated": 1795505482,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -54,6 +54,28 @@
     {
      "sym": "ETH",
      "id": "ethereum"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles",
+   "teaser": "Analysts said Huang's return was a reflex rally that did not resolve the macro headwinds bitcoin is facing as a risk asset.",
+   "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+   "t": 1795451524,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
