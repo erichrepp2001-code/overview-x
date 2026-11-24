@@ -1,5 +1,5 @@
 {
- "updated": 1795540348,
+ "updated": 1795547457,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -27,6 +27,45 @@
    "coins": []
   },
   {
+   "title": "Anchorage Digital to unveil new asset-management subsidiary",
+   "teaser": "The crypto custody technology firm said it will unveil a separate subsidiary called 61st Parallel Asset Management.",
+   "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
+   "t": 1795532792,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+   "teaser": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
+   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+   "t": 1795531253,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"
+    }
+   ],
+   "coins": []
+  },
+  {
    "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
    "teaser": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
    "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
@@ -43,6 +82,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+   "teaser": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
+   "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+   "t": 1795526255,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
@@ -67,44 +123,10 @@
    ]
   },
   {
-   "title": "South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%",
-   "teaser": "The draft will now head to the legislature, where lawmakers will debate it and potentially merge it with competing proposals.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494",
-   "t": 1795519524,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
-   "teaser": "Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer.",
-   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
-   "t": 1795516154,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
    "teaser": "The firm's DeFi business, Imperium, temporarily pulled out of liquidity pools after generating $3.5 million in Q3 revenue.",
    "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
-   "t": 1795491638,
+   "t": 1795517730,
    "sources": [
     {
      "name": "CoinDesk",
@@ -113,10 +135,6 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/btcs-sold-more-ethereum-than-it-has-left-to-repay-43-8-million-in-debt/"
     }
    ],
    "coins": [
@@ -142,32 +160,6 @@
     }
    ],
    "coins": [
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    }
-   ]
-  },
-  {
-   "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
-   "teaser": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
-   "t": 1795477414,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
     {
      "sym": "ETH",
      "id": "ethereum"
@@ -221,6 +213,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
