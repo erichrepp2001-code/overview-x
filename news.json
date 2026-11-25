@@ -1,5 +1,5 @@
 {
- "updated": 1795626834,
+ "updated": 1795633460,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+   "teaser": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+   "t": 1795627173,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
    "teaser": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
@@ -32,21 +49,48 @@
    ]
   },
   {
-   "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-   "teaser": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
-   "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795611729,
+   "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+   "teaser": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+   "t": 1795608867,
    "sources": [
     {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151"
     },
     {
      "name": "Decrypt",
-     "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027"
+     "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators"
     }
    ],
-   "coins": []
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
+  },
+  {
+   "title": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
+   "teaser": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up.",
+   "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+   "t": 1795604978,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
+    }
+   ]
   },
   {
    "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
@@ -69,23 +113,6 @@
      "id": "solana"
     }
    ]
-  },
-  {
-   "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
-   "teaser": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform’s first direct participants.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
-   "t": 1795601140,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
@@ -132,23 +159,6 @@
    ]
   },
   {
-   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
-   "teaser": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
-   "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
-   "t": 1795577720,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
    "teaser": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
    "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -179,6 +189,10 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
