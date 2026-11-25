@@ -1,5 +1,5 @@
 {
- "updated": 1795633460,
+ "updated": 1795640795,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Ripple’s latest banking partnership opens another route to XRP adoption in Turkey",
+   "teaser": "Ripple says its custody software is deployed at Yapı Kredi, while a route from lira into withdrawable XRP remains publicly unconfirmed. Read the full story on CryptoSlate Understand the crypto …",
+   "link": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
+   "t": 1795637429,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
    "teaser": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales.",
