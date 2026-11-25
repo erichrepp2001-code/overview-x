@@ -1,5 +1,5 @@
 {
- "updated": 1795561603,
+ "updated": 1795570131,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP’s shrinking exchange supply may be telling investors the wrong story",
+   "teaser": "Three Nov. 23 payments sent about 270 million XRP to unlabeled addresses that each held roughly 90 million XRP the next day. Read the full story on CryptoSlate Understand the crypto stories that …",
+   "link": "https://cryptoslate.com/xrps-shrinking-exchange-supply-may-be-telling-investors-the-wrong-story/",
+   "t": 1795569603,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrps-shrinking-exchange-supply-may-be-telling-investors-the-wrong-story/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
    "teaser": "Europol traced more than €26 million ($28.5 million) in crypto transactions during an investigation into illegal IPTV services.",
