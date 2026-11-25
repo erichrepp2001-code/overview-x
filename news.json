@@ -1,5 +1,5 @@
 {
- "updated": 1795576071,
+ "updated": 1795584046,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "teaser": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+   "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+   "t": 1795577720,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "XRP’s shrinking exchange supply may be telling investors the wrong story",
    "teaser": "Three Nov. 23 payments sent about 270 million XRP to unlabeled addresses that each held roughly 90 million XRP the next day. Read the full story on CryptoSlate Understand the crypto stories that …",
@@ -26,6 +43,23 @@
      "id": "ripple"
     }
    ]
+  },
+  {
+   "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+   "teaser": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+   "t": 1795553307,
+   "sources": [
+    {
+     "name": "The Block",
+     "link": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
@@ -67,23 +101,6 @@
    ]
   },
   {
-   "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-   "teaser": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
-   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-   "t": 1795531253,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"
-    }
-   ],
-   "coins": []
-  },
-  {
    "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
    "teaser": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
    "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
@@ -122,23 +139,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
-   "teaser": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
-   "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
-   "t": 1795526255,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": []
   },
   {
    "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
@@ -215,40 +215,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-   "teaser": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
-   "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-   "t": 1795452363,
-   "sources": [
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    },
-    {
-     "sym": "ETH",
-     "id": "ethereum"
-    },
-    {
-     "sym": "SOL",
-     "id": "solana"
-    },
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    },
-    {
-     "sym": "ADA",
-     "id": "cardano"
     }
    ]
   }
