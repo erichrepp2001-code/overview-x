@@ -1,5 +1,5 @@
 {
- "updated": 1795662350,
+ "updated": 1795670587,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -28,11 +28,15 @@
    ]
   },
   {
-   "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-   "teaser": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+   "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+   "teaser": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+   "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
    "t": 1795636200,
    "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
+    },
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
@@ -82,28 +86,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-   "teaser": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
-   "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-   "t": 1795621759,
-   "sources": [
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff"
-    },
-    {
-     "name": "CryptoSlate",
-     "link": "https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   },
   {
    "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
@@ -186,6 +168,28 @@
     {
      "sym": "XRP",
      "id": "ripple"
+    }
+   ]
+  },
+  {
+   "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+   "teaser": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
+   "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795570859,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/cleanspark-987-million-loss-fiscal-2026"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "BTC",
+     "id": "bitcoin"
     }
    ]
   },
