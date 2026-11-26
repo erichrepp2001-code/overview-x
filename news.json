@@ -1,5 +1,5 @@
 {
- "updated": 1795700002,
+ "updated": 1795706055,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -143,6 +143,10 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor"
+    },
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/us-government-could-be-barred-from-selling-its-strategic-bitcoin-holdings-for-20-years/"
     }
    ],
    "coins": [
@@ -192,24 +196,6 @@
     {
      "sym": "BTC",
      "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-   "teaser": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
-   "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-   "t": 1795587308,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
     }
    ]
   }
