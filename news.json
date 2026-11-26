@@ -1,5 +1,5 @@
 {
- "updated": 1795713461,
+ "updated": 1795720282,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -18,6 +18,10 @@
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
