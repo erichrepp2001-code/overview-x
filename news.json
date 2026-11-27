@@ -1,5 +1,5 @@
 {
- "updated": 1795806584,
+ "updated": 1795813648,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,24 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "XRP holders face a choice between earning more yield and getting their tokens back",
+   "teaser": "Spectra’s February market keeps XRP-linked exposure on Flare, while getting native XRP back takes a separate redemption. Read the full story on CryptoSlate Understand the crypto stories that matter …",
+   "link": "https://cryptoslate.com/xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-back/",
+   "t": 1795811425,
+   "sources": [
+    {
+     "name": "CryptoSlate",
+     "link": "https://cryptoslate.com/xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-back/"
+    }
+   ],
+   "coins": [
+    {
+     "sym": "XRP",
+     "id": "ripple"
+    }
+   ]
+  },
   {
    "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
    "teaser": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
