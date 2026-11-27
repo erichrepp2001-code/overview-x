@@ -1,5 +1,5 @@
 {
- "updated": 1795777401,
+ "updated": 1795786073,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "teaser": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+   "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+   "t": 1795776687,
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin"
+    },
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
    "teaser": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá.",
@@ -62,6 +79,10 @@
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"
     }
    ],
    "coins": []
@@ -152,24 +173,6 @@
    ]
   },
   {
-   "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-   "teaser": "Two SEC-registered funds open to ordinary investors marked Ripple stock 70% apart on Sept. 30, and the lower mark sits barely above what the other fund paid in 2018.",
-   "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
-   "t": 1795671038,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
-  },
-  {
    "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
    "teaser": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
    "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
@@ -182,28 +185,6 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-   "teaser": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
-   "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-   "t": 1795662181,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
-    },
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
     }
    ],
    "coins": [
