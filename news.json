@@ -1,5 +1,5 @@
 {
- "updated": 1795756890,
+ "updated": 1795764787,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -97,6 +97,10 @@
      "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech"
     },
     {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
      "name": "Decrypt",
      "link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us"
     }
@@ -124,6 +128,23 @@
      "id": "bitcoin"
     }
    ]
+  },
+  {
+   "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+   "teaser": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
+   "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795672388,
+   "sources": [
+    {
+     "name": "Cointelegraph",
+     "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    },
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report"
+    }
+   ],
+   "coins": []
   },
   {
    "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
@@ -190,27 +211,6 @@
      "id": "bitcoin"
     }
    ]
-  },
-  {
-   "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
-   "teaser": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.",
-   "link": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
-   "t": 1795632005,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax"
-    }
-   ],
-   "coins": []
   }
  ]
 }
