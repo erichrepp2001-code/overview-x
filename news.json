@@ -1,5 +1,5 @@
 {
- "updated": 1795799980,
+ "updated": 1795806584,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -83,6 +83,10 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack"
     }
    ],
    "coins": []
