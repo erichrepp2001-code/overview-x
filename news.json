@@ -1,5 +1,5 @@
 {
- "updated": 1795792109,
+ "updated": 1795799980,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -150,53 +150,13 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion"
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
-   "teaser": "BIT Asset Management's BBIT fund debuted on SIX Swiss Exchange with 350 BTC in assets and a 0.19% annual expense ratio.",
-   "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
-   "t": 1795674600,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
-  },
-  {
-   "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
-   "teaser": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
-   "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-   "t": 1795670171,
-   "sources": [
-    {
-     "name": "The Block",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "BTC",
-     "id": "bitcoin"
-    }
-   ]
   }
  ]
 }
