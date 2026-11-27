@@ -1,5 +1,5 @@
 {
- "updated": 1795813648,
+ "updated": 1795820812,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -156,15 +156,11 @@
    "coins": []
   },
   {
-   "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-   "teaser": "AWS Mining and NovaTech founders Cynthia and Eddie Petion were ordered to pay $1.37 billion after defrauding hundreds of thousands of people, including 11,000 New Yorkers.",
-   "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-   "t": 1795689633,
+   "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+   "teaser": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+   "link": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795692358,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech"
-    },
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
