@@ -1,5 +1,5 @@
 {
- "updated": 1795764787,
+ "updated": 1795771304,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -190,7 +190,7 @@
    "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
    "teaser": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
    "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-   "t": 1795636200,
+   "t": 1795662181,
    "sources": [
     {
      "name": "CoinDesk",
@@ -199,10 +199,6 @@
     {
      "name": "The Block",
      "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor"
     }
    ],
    "coins": [
