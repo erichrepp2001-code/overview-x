@@ -1,5 +1,5 @@
 {
- "updated": 1795786073,
+ "updated": 1795792109,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -104,6 +104,10 @@
     {
      "name": "Decrypt",
      "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts"
     }
    ],
    "coins": []
