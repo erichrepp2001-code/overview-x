@@ -1,5 +1,5 @@
 {
- "updated": 1795829228,
+ "updated": 1795834926,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -127,15 +127,11 @@
    "coins": []
   },
   {
-   "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-   "teaser": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
-   "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-   "t": 1795701958,
+   "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+   "teaser": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+   "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "t": 1795711382,
    "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge"
-    },
     {
      "name": "Cointelegraph",
      "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
