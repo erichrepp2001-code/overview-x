@@ -1,5 +1,5 @@
 {
- "updated": 1795834926,
+ "updated": 1795842707,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -122,27 +122,6 @@
     {
      "name": "Bitcoin Magazine",
      "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack"
-    }
-   ],
-   "coins": []
-  },
-  {
-   "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-   "teaser": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
-   "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "t": 1795711382,
-   "sources": [
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts"
     }
    ],
    "coins": []
