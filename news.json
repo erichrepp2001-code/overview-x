@@ -1,5 +1,5 @@
 {
- "updated": 1795877903,
+ "updated": 1795885122,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -9,6 +9,23 @@
   "CryptoSlate"
  ],
  "items": [
+  {
+   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+   "teaser": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
+   "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+   "t": 1795785857,
+   "sources": [
+    {
+     "name": "Decrypt",
+     "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"
+    },
+    {
+     "name": "Bitcoin Magazine",
+     "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack"
+    }
+   ],
+   "coins": []
+  },
   {
    "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
    "teaser": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
@@ -82,27 +99,6 @@
      "id": "ripple"
     }
    ]
-  },
-  {
-   "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
-   "teaser": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
-   "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
-   "t": 1795754747,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
-    },
-    {
-     "name": "Decrypt",
-     "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"
-    },
-    {
-     "name": "Bitcoin Magazine",
-     "link": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack"
-    }
-   ],
-   "coins": []
   }
  ]
 }
