@@ -1,5 +1,5 @@
 {
- "updated": 1795885122,
+ "updated": 1795892610,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -81,24 +81,6 @@
     }
    ],
    "coins": []
-  },
-  {
-   "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
-   "teaser": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
-   "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
-   "t": 1795755992,
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins"
-    }
-   ],
-   "coins": [
-    {
-     "sym": "XRP",
-     "id": "ripple"
-    }
-   ]
   }
  ]
 }
