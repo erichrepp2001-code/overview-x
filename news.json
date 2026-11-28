@@ -1,5 +1,5 @@
 {
- "updated": 1795856481,
+ "updated": 1795863526,
  "feeds": [
   "CoinDesk",
   "The Block",
@@ -105,15 +105,11 @@
    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
    "teaser": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
    "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
-   "t": 1795728827,
+   "t": 1795754747,
    "sources": [
     {
      "name": "CoinDesk",
      "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
-    },
-    {
-     "name": "Cointelegraph",
-     "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
     },
     {
      "name": "Decrypt",
